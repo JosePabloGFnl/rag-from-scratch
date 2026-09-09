@@ -1,0 +1,2683 @@
+
+
+Wikipedia The Free Encyclopedia
+Search
+
+    Donate
+    Create account
+    Log in
+
+Contents hide
+
+    (Top)
+    Format
+    Qualified teams
+    Bracket
+    Round of 32
+    Round of 16
+    Quarterfinals
+    Semifinals
+    Match for third place
+    Final
+    Notes
+    References
+    External links
+
+2026 FIFA World Cup knockout stage
+
+    Article
+    Talk
+
+    Read
+    Edit
+    View history
+
+Appearance
+hide
+Text
+
+    Small
+    Standard
+    Large
+
+Width
+
+    Standard
+    Wide
+
+Color
+
+    Automatic
+    Light
+    Dark
+
+From Wikipedia, the free encyclopedia
+
+The knockout stage of the 2026 FIFA World Cup was the second and final stage of the competition, following the group stage. Played from June 28 to July 19, 2026, the knockout stage ended with the final, held at MetLife Stadium in East Rutherford, New Jersey.[1] The top two teams from each of the twelve groups, along with the best eight third-place teams, advanced to the knockout stage to compete in a single-elimination tournament. There were 32 matches in the knockout stage, including a match for third place.[2]
+Format
+
+The knockout stage of the 2026 FIFA World Cup was contested between 32 teams that qualify from the group stage. Matches in the knockout stage were played to a finish. If the score of a match was level at the end of 90 minutes of playing time, 30 minutes of extra time were played. If the scores were still tied, a penalty shootout determined the team that prevailed.[2] All times listed are local.[1]
+
+In the round of 32, four of the group winners played group runners-up. The other eight group winners played advancing third-place teams. The eight remaining group runners-up played against each other.
+
+FIFA set out the following schedule for the round of 32:[2]
+
+    Match 73: Runner-up Group A vs Runner-up Group B
+    Match 74: Winner Group E vs Third-place Group A/B/C/D/F
+    Match 75: Winner Group F vs Runner-up Group C
+    Match 76: Winner Group C vs Runner-up Group F
+    Match 77: Winner Group I vs Third-place Group C/D/F/G/H
+    Match 78: Runner-up Group E vs Runner-up Group I
+    Match 79: Winner Group A vs Third-place Group C/E/F/H/I
+    Match 80: Winner Group L vs Third-place Group E/H/I/J/K
+    Match 81: Winner Group D vs Third-place Group B/E/F/I/J
+    Match 82: Winner Group G vs Third-place Group A/E/H/I/J
+    Match 83: Runner-up Group K vs Runner-up Group L
+    Match 84: Winner Group H vs Runner-up Group J
+    Match 85: Winner Group B vs Third-place Group E/F/G/I/J
+    Match 86: Winner Group J vs Runner-up Group H
+    Match 87: Winner Group K vs Third-place Group D/E/I/J/L
+    Match 88: Runner-up Group D vs Runner-up Group G
+
+Combinations of matches in the round of 32
+
+The specific matchups involving the third-place teams depended on which eight third-place teams qualified for the round of 32. The 495 possible combinations were published in Annex C of the tournament regulations.[2]
+
+The following eight groups had their third-place teams finish in the top eight of the ranking: B, D, E, F, I, J, K, and L. According to the combinations table (outcome #67), the matchups involving third-place teams were therefore as follows:[2]
+
+    1A (Mexico) vs 3E (Ecuador)
+    1B (Switzerland) vs 3J (Algeria)
+    1D (United States) vs 3B (Bosnia and Herzegovina)
+    1E (Germany) vs 3D (Paraguay)
+    1G (Belgium) vs 3I (Senegal)
+    1I (France) vs 3F (Sweden)
+    1K (Colombia) vs 3L (Ghana)
+    1L (England) vs 3K (DR Congo)
+
+The full combination table was as follows:[2]
+* Combination according to the eight qualified teams
+Combinations of matches in the round of 32 No.
+Third-place teams
+advance from groups
+
+    vte
+
+		1A
+vs 	1B
+vs 	1D
+vs 	1E
+vs 	1G
+vs 	1I
+vs 	1K
+vs 	1L
+vs
+1 					E	F	G	H	I	J	K	L 		3E	3J	3I	3F	3H	3G	3L	3K
+2 				D		F	G	H	I	J	K	L	3H	3G	3I	3D	3J	3F	3L	3K
+3 				D	E		G	H	I	J	K	L	3E	3J	3I	3D	3H	3G	3L	3K
+4 				D	E	F		H	I	J	K	L	3E	3J	3I	3D	3H	3F	3L	3K
+5 				D	E	F	G		I	J	K	L	3E	3G	3I	3D	3J	3F	3L	3K
+6 				D	E	F	G	H		J	K	L	3E	3G	3J	3D	3H	3F	3L	3K
+7 				D	E	F	G	H	I		K	L	3E	3G	3I	3D	3H	3F	3L	3K
+8 				D	E	F	G	H	I	J		L	3E	3G	3J	3D	3H	3F	3L	3I
+9 				D	E	F	G	H	I	J	K		3E	3G	3J	3D	3H	3F	3I	3K
+10 			C			F	G	H	I	J	K	L	3H	3G	3I	3C	3J	3F	3L	3K
+11 			C		E		G	H	I	J	K	L	3E	3J	3I	3C	3H	3G	3L	3K
+12 			C		E	F		H	I	J	K	L	3E	3J	3I	3C	3H	3F	3L	3K
+13 			C		E	F	G		I	J	K	L	3E	3G	3I	3C	3J	3F	3L	3K
+14 			C		E	F	G	H		J	K	L	3E	3G	3J	3C	3H	3F	3L	3K
+15 			C		E	F	G	H	I		K	L	3E	3G	3I	3C	3H	3F	3L	3K
+16 			C		E	F	G	H	I	J		L	3E	3G	3J	3C	3H	3F	3L	3I
+17 			C		E	F	G	H	I	J	K		3E	3G	3J	3C	3H	3F	3I	3K
+18 			C	D			G	H	I	J	K	L	3H	3G	3I	3C	3J	3D	3L	3K
+19 			C	D		F		H	I	J	K	L	3C	3J	3I	3D	3H	3F	3L	3K
+20 			C	D		F	G		I	J	K	L	3C	3G	3I	3D	3J	3F	3L	3K
+21 			C	D		F	G	H		J	K	L	3C	3G	3J	3D	3H	3F	3L	3K
+22 			C	D		F	G	H	I		K	L	3C	3G	3I	3D	3H	3F	3L	3K
+23 			C	D		F	G	H	I	J		L	3C	3G	3J	3D	3H	3F	3L	3I
+24 			C	D		F	G	H	I	J	K		3C	3G	3J	3D	3H	3F	3I	3K
+25 			C	D	E			H	I	J	K	L	3E	3J	3I	3C	3H	3D	3L	3K
+26 			C	D	E		G		I	J	K	L	3E	3G	3I	3C	3J	3D	3L	3K
+27 			C	D	E		G	H		J	K	L	3E	3G	3J	3C	3H	3D	3L	3K
+28 			C	D	E		G	H	I		K	L	3E	3G	3I	3C	3H	3D	3L	3K
+29 			C	D	E		G	H	I	J		L	3E	3G	3J	3C	3H	3D	3L	3I
+30 			C	D	E		G	H	I	J	K		3E	3G	3J	3C	3H	3D	3I	3K
+31 			C	D	E	F			I	J	K	L	3C	3J	3E	3D	3I	3F	3L	3K
+32 			C	D	E	F		H		J	K	L	3C	3J	3E	3D	3H	3F	3L	3K
+33 			C	D	E	F		H	I		K	L	3C	3E	3I	3D	3H	3F	3L	3K
+34 			C	D	E	F		H	I	J		L	3C	3J	3E	3D	3H	3F	3L	3I
+35 			C	D	E	F		H	I	J	K		3C	3J	3E	3D	3H	3F	3I	3K
+36 			C	D	E	F	G			J	K	L	3C	3G	3E	3D	3J	3F	3L	3K
+37 			C	D	E	F	G		I		K	L	3C	3G	3E	3D	3I	3F	3L	3K
+38 			C	D	E	F	G		I	J		L	3C	3G	3E	3D	3J	3F	3L	3I
+39 			C	D	E	F	G		I	J	K		3C	3G	3E	3D	3J	3F	3I	3K
+40 			C	D	E	F	G	H			K	L	3C	3G	3E	3D	3H	3F	3L	3K
+41 			C	D	E	F	G	H		J		L	3C	3G	3J	3D	3H	3F	3L	3E
+42 			C	D	E	F	G	H		J	K		3C	3G	3J	3D	3H	3F	3E	3K
+43 			C	D	E	F	G	H	I			L	3C	3G	3E	3D	3H	3F	3L	3I
+44 			C	D	E	F	G	H	I		K		3C	3G	3E	3D	3H	3F	3I	3K
+45 			C	D	E	F	G	H	I	J			3C	3G	3J	3D	3H	3F	3E	3I
+46 		B				F	G	H	I	J	K	L	3H	3J	3B	3F	3I	3G	3L	3K
+47 		B			E		G	H	I	J	K	L	3E	3J	3I	3B	3H	3G	3L	3K
+48 		B			E	F		H	I	J	K	L	3E	3J	3B	3F	3I	3H	3L	3K
+49 		B			E	F	G		I	J	K	L	3E	3J	3B	3F	3I	3G	3L	3K
+50 		B			E	F	G	H		J	K	L	3E	3J	3B	3F	3H	3G	3L	3K
+51 		B			E	F	G	H	I		K	L	3E	3G	3B	3F	3I	3H	3L	3K
+52 		B			E	F	G	H	I	J		L	3E	3J	3B	3F	3H	3G	3L	3I
+53 		B			E	F	G	H	I	J	K		3E	3J	3B	3F	3H	3G	3I	3K
+54 		B		D			G	H	I	J	K	L	3H	3J	3B	3D	3I	3G	3L	3K
+55 		B		D		F		H	I	J	K	L	3H	3J	3B	3D	3I	3F	3L	3K
+56 		B		D		F	G		I	J	K	L	3I	3G	3B	3D	3J	3F	3L	3K
+57 		B		D		F	G	H		J	K	L	3H	3G	3B	3D	3J	3F	3L	3K
+58 		B		D		F	G	H	I		K	L	3H	3G	3B	3D	3I	3F	3L	3K
+59 		B		D		F	G	H	I	J		L	3H	3G	3B	3D	3J	3F	3L	3I
+60 		B		D		F	G	H	I	J	K		3H	3G	3B	3D	3J	3F	3I	3K
+61 		B		D	E			H	I	J	K	L	3E	3J	3B	3D	3I	3H	3L	3K
+62 		B		D	E		G		I	J	K	L	3E	3J	3B	3D	3I	3G	3L	3K
+63 		B		D	E		G	H		J	K	L	3E	3J	3B	3D	3H	3G	3L	3K
+64 		B		D	E		G	H	I		K	L	3E	3G	3B	3D	3I	3H	3L	3K
+65 		B		D	E		G	H	I	J		L	3E	3J	3B	3D	3H	3G	3L	3I
+66 		B		D	E		G	H	I	J	K		3E	3J	3B	3D	3H	3G	3I	3K
+67* 		B		D	E	F			I	J	K	L	3E	3J	3B	3D	3I	3F	3L	3K
+68 		B		D	E	F		H		J	K	L	3E	3J	3B	3D	3H	3F	3L	3K
+69 		B		D	E	F		H	I		K	L	3E	3I	3B	3D	3H	3F	3L	3K
+70 		B		D	E	F		H	I	J		L	3E	3J	3B	3D	3H	3F	3L	3I
+71 		B		D	E	F		H	I	J	K		3E	3J	3B	3D	3H	3F	3I	3K
+72 		B		D	E	F	G			J	K	L	3E	3G	3B	3D	3J	3F	3L	3K
+73 		B		D	E	F	G		I		K	L	3E	3G	3B	3D	3I	3F	3L	3K
+74 		B		D	E	F	G		I	J		L	3E	3G	3B	3D	3J	3F	3L	3I
+75 		B		D	E	F	G		I	J	K		3E	3G	3B	3D	3J	3F	3I	3K
+76 		B		D	E	F	G	H			K	L	3E	3G	3B	3D	3H	3F	3L	3K
+77 		B		D	E	F	G	H		J		L	3H	3G	3B	3D	3J	3F	3L	3E
+78 		B		D	E	F	G	H		J	K		3H	3G	3B	3D	3J	3F	3E	3K
+79 		B		D	E	F	G	H	I			L	3E	3G	3B	3D	3H	3F	3L	3I
+80 		B		D	E	F	G	H	I		K		3E	3G	3B	3D	3H	3F	3I	3K
+81 		B		D	E	F	G	H	I	J			3H	3G	3B	3D	3J	3F	3E	3I
+82 		B	C				G	H	I	J	K	L	3H	3J	3B	3C	3I	3G	3L	3K
+83 		B	C			F		H	I	J	K	L	3H	3J	3B	3C	3I	3F	3L	3K
+84 		B	C			F	G		I	J	K	L	3I	3G	3B	3C	3J	3F	3L	3K
+85 		B	C			F	G	H		J	K	L	3H	3G	3B	3C	3J	3F	3L	3K
+86 		B	C			F	G	H	I		K	L	3H	3G	3B	3C	3I	3F	3L	3K
+87 		B	C			F	G	H	I	J		L	3H	3G	3B	3C	3J	3F	3L	3I
+88 		B	C			F	G	H	I	J	K		3H	3G	3B	3C	3J	3F	3I	3K
+89 		B	C		E			H	I	J	K	L	3E	3J	3B	3C	3I	3H	3L	3K
+90 		B	C		E		G		I	J	K	L	3E	3J	3B	3C	3I	3G	3L	3K
+91 		B	C		E		G	H		J	K	L	3E	3J	3B	3C	3H	3G	3L	3K
+92 		B	C		E		G	H	I		K	L	3E	3G	3B	3C	3I	3H	3L	3K
+93 		B	C		E		G	H	I	J		L	3E	3J	3B	3C	3H	3G	3L	3I
+94 		B	C		E		G	H	I	J	K		3E	3J	3B	3C	3H	3G	3I	3K
+95 		B	C		E	F			I	J	K	L	3E	3J	3B	3C	3I	3F	3L	3K
+96 		B	C		E	F		H		J	K	L	3E	3J	3B	3C	3H	3F	3L	3K
+97 		B	C		E	F		H	I		K	L	3E	3I	3B	3C	3H	3F	3L	3K
+98 		B	C		E	F		H	I	J		L	3E	3J	3B	3C	3H	3F	3L	3I
+99 		B	C		E	F		H	I	J	K		3E	3J	3B	3C	3H	3F	3I	3K
+100 		B	C		E	F	G			J	K	L	3E	3G	3B	3C	3J	3F	3L	3K
+101 		B	C		E	F	G		I		K	L	3E	3G	3B	3C	3I	3F	3L	3K
+102 		B	C		E	F	G		I	J		L	3E	3G	3B	3C	3J	3F	3L	3I
+103 		B	C		E	F	G		I	J	K		3E	3G	3B	3C	3J	3F	3I	3K
+104 		B	C		E	F	G	H			K	L	3E	3G	3B	3C	3H	3F	3L	3K
+105 		B	C		E	F	G	H		J		L	3H	3G	3B	3C	3J	3F	3L	3E
+106 		B	C		E	F	G	H		J	K		3H	3G	3B	3C	3J	3F	3E	3K
+107 		B	C		E	F	G	H	I			L	3E	3G	3B	3C	3H	3F	3L	3I
+108 		B	C		E	F	G	H	I		K		3E	3G	3B	3C	3H	3F	3I	3K
+109 		B	C		E	F	G	H	I	J			3H	3G	3B	3C	3J	3F	3E	3I
+110 		B	C	D				H	I	J	K	L	3H	3J	3B	3C	3I	3D	3L	3K
+111 		B	C	D			G		I	J	K	L	3I	3G	3B	3C	3J	3D	3L	3K
+112 		B	C	D			G	H		J	K	L	3H	3G	3B	3C	3J	3D	3L	3K
+113 		B	C	D			G	H	I		K	L	3H	3G	3B	3C	3I	3D	3L	3K
+114 		B	C	D			G	H	I	J		L	3H	3G	3B	3C	3J	3D	3L	3I
+115 		B	C	D			G	H	I	J	K		3H	3G	3B	3C	3J	3D	3I	3K
+116 		B	C	D		F			I	J	K	L	3C	3J	3B	3D	3I	3F	3L	3K
+117 		B	C	D		F		H		J	K	L	3C	3J	3B	3D	3H	3F	3L	3K
+118 		B	C	D		F		H	I		K	L	3C	3I	3B	3D	3H	3F	3L	3K
+119 		B	C	D		F		H	I	J		L	3C	3J	3B	3D	3H	3F	3L	3I
+120 		B	C	D		F		H	I	J	K		3C	3J	3B	3D	3H	3F	3I	3K
+121 		B	C	D		F	G			J	K	L	3C	3G	3B	3D	3J	3F	3L	3K
+122 		B	C	D		F	G		I		K	L	3C	3G	3B	3D	3I	3F	3L	3K
+123 		B	C	D		F	G		I	J		L	3C	3G	3B	3D	3J	3F	3L	3I
+124 		B	C	D		F	G		I	J	K		3C	3G	3B	3D	3J	3F	3I	3K
+125 		B	C	D		F	G	H			K	L	3C	3G	3B	3D	3H	3F	3L	3K
+126 		B	C	D		F	G	H		J		L	3C	3G	3B	3D	3H	3F	3L	3J
+127 		B	C	D		F	G	H		J	K		3H	3G	3B	3C	3J	3F	3D	3K
+128 		B	C	D		F	G	H	I			L	3C	3G	3B	3D	3H	3F	3L	3I
+129 		B	C	D		F	G	H	I		K		3C	3G	3B	3D	3H	3F	3I	3K
+130 		B	C	D		F	G	H	I	J			3H	3G	3B	3C	3J	3F	3D	3I
+131 		B	C	D	E				I	J	K	L	3E	3J	3B	3C	3I	3D	3L	3K
+132 		B	C	D	E			H		J	K	L	3E	3J	3B	3C	3H	3D	3L	3K
+133 		B	C	D	E			H	I		K	L	3E	3I	3B	3C	3H	3D	3L	3K
+134 		B	C	D	E			H	I	J		L	3E	3J	3B	3C	3H	3D	3L	3I
+135 		B	C	D	E			H	I	J	K		3E	3J	3B	3C	3H	3D	3I	3K
+136 		B	C	D	E		G			J	K	L	3E	3G	3B	3C	3J	3D	3L	3K
+137 		B	C	D	E		G		I		K	L	3E	3G	3B	3C	3I	3D	3L	3K
+138 		B	C	D	E		G		I	J		L	3E	3G	3B	3C	3J	3D	3L	3I
+139 		B	C	D	E		G		I	J	K		3E	3G	3B	3C	3J	3D	3I	3K
+140 		B	C	D	E		G	H			K	L	3E	3G	3B	3C	3H	3D	3L	3K
+141 		B	C	D	E		G	H		J		L	3H	3G	3B	3C	3J	3D	3L	3E
+142 		B	C	D	E		G	H		J	K		3H	3G	3B	3C	3J	3D	3E	3K
+143 		B	C	D	E		G	H	I			L	3E	3G	3B	3C	3H	3D	3L	3I
+144 		B	C	D	E		G	H	I		K		3E	3G	3B	3C	3H	3D	3I	3K
+145 		B	C	D	E		G	H	I	J			3H	3G	3B	3C	3J	3D	3E	3I
+146 		B	C	D	E	F				J	K	L	3C	3J	3B	3D	3E	3F	3L	3K
+147 		B	C	D	E	F			I		K	L	3C	3E	3B	3D	3I	3F	3L	3K
+148 		B	C	D	E	F			I	J		L	3C	3J	3B	3D	3E	3F	3L	3I
+149 		B	C	D	E	F			I	J	K		3C	3J	3B	3D	3E	3F	3I	3K
+150 		B	C	D	E	F		H			K	L	3C	3E	3B	3D	3H	3F	3L	3K
+151 		B	C	D	E	F		H		J		L	3C	3J	3B	3D	3H	3F	3L	3E
+152 		B	C	D	E	F		H		J	K		3C	3J	3B	3D	3H	3F	3E	3K
+153 		B	C	D	E	F		H	I			L	3C	3E	3B	3D	3H	3F	3L	3I
+154 		B	C	D	E	F		H	I		K		3C	3E	3B	3D	3H	3F	3I	3K
+155 		B	C	D	E	F		H	I	J			3C	3J	3B	3D	3H	3F	3E	3I
+156 		B	C	D	E	F	G				K	L	3C	3G	3B	3D	3E	3F	3L	3K
+157 		B	C	D	E	F	G			J		L	3C	3G	3B	3D	3J	3F	3L	3E
+158 		B	C	D	E	F	G			J	K		3C	3G	3B	3D	3J	3F	3E	3K
+159 		B	C	D	E	F	G		I			L	3C	3G	3B	3D	3E	3F	3L	3I
+160 		B	C	D	E	F	G		I		K		3C	3G	3B	3D	3E	3F	3I	3K
+161 		B	C	D	E	F	G		I	J			3C	3G	3B	3D	3J	3F	3E	3I
+162 		B	C	D	E	F	G	H				L	3C	3G	3B	3D	3H	3F	3L	3E
+163 		B	C	D	E	F	G	H			K		3C	3G	3B	3D	3H	3F	3E	3K
+164 		B	C	D	E	F	G	H		J			3H	3G	3B	3C	3J	3F	3D	3E
+165 		B	C	D	E	F	G	H	I				3C	3G	3B	3D	3H	3F	3E	3I
+166 	A					F	G	H	I	J	K	L	3H	3J	3I	3F	3A	3G	3L	3K
+167 	A				E		G	H	I	J	K	L	3E	3J	3I	3A	3H	3G	3L	3K
+168 	A				E	F		H	I	J	K	L	3E	3J	3I	3F	3A	3H	3L	3K
+169 	A				E	F	G		I	J	K	L	3E	3J	3I	3F	3A	3G	3L	3K
+170 	A				E	F	G	H		J	K	L	3E	3G	3J	3F	3A	3H	3L	3K
+171 	A				E	F	G	H	I		K	L	3E	3G	3I	3F	3A	3H	3L	3K
+172 	A				E	F	G	H	I	J		L	3E	3G	3J	3F	3A	3H	3L	3I
+173 	A				E	F	G	H	I	J	K		3E	3G	3J	3F	3A	3H	3I	3K
+174 	A			D			G	H	I	J	K	L	3H	3J	3I	3D	3A	3G	3L	3K
+175 	A			D		F		H	I	J	K	L	3H	3J	3I	3D	3A	3F	3L	3K
+176 	A			D		F	G		I	J	K	L	3I	3G	3J	3D	3A	3F	3L	3K
+177 	A			D		F	G	H		J	K	L	3H	3G	3J	3D	3A	3F	3L	3K
+178 	A			D		F	G	H	I		K	L	3H	3G	3I	3D	3A	3F	3L	3K
+179 	A			D		F	G	H	I	J		L	3H	3G	3J	3D	3A	3F	3L	3I
+180 	A			D		F	G	H	I	J	K		3H	3G	3J	3D	3A	3F	3I	3K
+181 	A			D	E			H	I	J	K	L	3E	3J	3I	3D	3A	3H	3L	3K
+182 	A			D	E		G		I	J	K	L	3E	3J	3I	3D	3A	3G	3L	3K
+183 	A			D	E		G	H		J	K	L	3E	3G	3J	3D	3A	3H	3L	3K
+184 	A			D	E		G	H	I		K	L	3E	3G	3I	3D	3A	3H	3L	3K
+185 	A			D	E		G	H	I	J		L	3E	3G	3J	3D	3A	3H	3L	3I
+186 	A			D	E		G	H	I	J	K		3E	3G	3J	3D	3A	3H	3I	3K
+187 	A			D	E	F			I	J	K	L	3E	3J	3I	3D	3A	3F	3L	3K
+188 	A			D	E	F		H		J	K	L	3H	3J	3E	3D	3A	3F	3L	3K
+189 	A			D	E	F		H	I		K	L	3H	3E	3I	3D	3A	3F	3L	3K
+190 	A			D	E	F		H	I	J		L	3H	3J	3E	3D	3A	3F	3L	3I
+191 	A			D	E	F		H	I	J	K		3H	3J	3E	3D	3A	3F	3I	3K
+192 	A			D	E	F	G			J	K	L	3E	3G	3J	3D	3A	3F	3L	3K
+193 	A			D	E	F	G		I		K	L	3E	3G	3I	3D	3A	3F	3L	3K
+194 	A			D	E	F	G		I	J		L	3E	3G	3J	3D	3A	3F	3L	3I
+195 	A			D	E	F	G		I	J	K		3E	3G	3J	3D	3A	3F	3I	3K
+196 	A			D	E	F	G	H			K	L	3H	3G	3E	3D	3A	3F	3L	3K
+197 	A			D	E	F	G	H		J		L	3H	3G	3J	3D	3A	3F	3L	3E
+198 	A			D	E	F	G	H		J	K		3H	3G	3J	3D	3A	3F	3E	3K
+199 	A			D	E	F	G	H	I			L	3H	3G	3E	3D	3A	3F	3L	3I
+200 	A			D	E	F	G	H	I		K		3H	3G	3E	3D	3A	3F	3I	3K
+201 	A			D	E	F	G	H	I	J			3H	3G	3J	3D	3A	3F	3E	3I
+202 	A		C				G	H	I	J	K	L	3H	3J	3I	3C	3A	3G	3L	3K
+203 	A		C			F		H	I	J	K	L	3H	3J	3I	3C	3A	3F	3L	3K
+204 	A		C			F	G		I	J	K	L	3I	3G	3J	3C	3A	3F	3L	3K
+205 	A		C			F	G	H		J	K	L	3H	3G	3J	3C	3A	3F	3L	3K
+206 	A		C			F	G	H	I		K	L	3H	3G	3I	3C	3A	3F	3L	3K
+207 	A		C			F	G	H	I	J		L	3H	3G	3J	3C	3A	3F	3L	3I
+208 	A		C			F	G	H	I	J	K		3H	3G	3J	3C	3A	3F	3I	3K
+209 	A		C		E			H	I	J	K	L	3E	3J	3I	3C	3A	3H	3L	3K
+210 	A		C		E		G		I	J	K	L	3E	3J	3I	3C	3A	3G	3L	3K
+211 	A		C		E		G	H		J	K	L	3E	3G	3J	3C	3A	3H	3L	3K
+212 	A		C		E		G	H	I		K	L	3E	3G	3I	3C	3A	3H	3L	3K
+213 	A		C		E		G	H	I	J		L	3E	3G	3J	3C	3A	3H	3L	3I
+214 	A		C		E		G	H	I	J	K		3E	3G	3J	3C	3A	3H	3I	3K
+215 	A		C		E	F			I	J	K	L	3E	3J	3I	3C	3A	3F	3L	3K
+216 	A		C		E	F		H		J	K	L	3H	3J	3E	3C	3A	3F	3L	3K
+217 	A		C		E	F		H	I		K	L	3H	3E	3I	3C	3A	3F	3L	3K
+218 	A		C		E	F		H	I	J		L	3H	3J	3E	3C	3A	3F	3L	3I
+219 	A		C		E	F		H	I	J	K		3H	3J	3E	3C	3A	3F	3I	3K
+220 	A		C		E	F	G			J	K	L	3E	3G	3J	3C	3A	3F	3L	3K
+221 	A		C		E	F	G		I		K	L	3E	3G	3I	3C	3A	3F	3L	3K
+222 	A		C		E	F	G		I	J		L	3E	3G	3J	3C	3A	3F	3L	3I
+223 	A		C		E	F	G		I	J	K		3E	3G	3J	3C	3A	3F	3I	3K
+224 	A		C		E	F	G	H			K	L	3H	3G	3E	3C	3A	3F	3L	3K
+225 	A		C		E	F	G	H		J		L	3H	3G	3J	3C	3A	3F	3L	3E
+226 	A		C		E	F	G	H		J	K		3H	3G	3J	3C	3A	3F	3E	3K
+227 	A		C		E	F	G	H	I			L	3H	3G	3E	3C	3A	3F	3L	3I
+228 	A		C		E	F	G	H	I		K		3H	3G	3E	3C	3A	3F	3I	3K
+229 	A		C		E	F	G	H	I	J			3H	3G	3J	3C	3A	3F	3E	3I
+230 	A		C	D				H	I	J	K	L	3H	3J	3I	3C	3A	3D	3L	3K
+231 	A		C	D			G		I	J	K	L	3I	3G	3J	3C	3A	3D	3L	3K
+232 	A		C	D			G	H		J	K	L	3H	3G	3J	3C	3A	3D	3L	3K
+233 	A		C	D			G	H	I		K	L	3H	3G	3I	3C	3A	3D	3L	3K
+234 	A		C	D			G	H	I	J		L	3H	3G	3J	3C	3A	3D	3L	3I
+235 	A		C	D			G	H	I	J	K		3H	3G	3J	3C	3A	3D	3I	3K
+236 	A		C	D		F			I	J	K	L	3C	3J	3I	3D	3A	3F	3L	3K
+237 	A		C	D		F		H		J	K	L	3H	3J	3F	3C	3A	3D	3L	3K
+238 	A		C	D		F		H	I		K	L	3H	3F	3I	3C	3A	3D	3L	3K
+239 	A		C	D		F		H	I	J		L	3H	3J	3F	3C	3A	3D	3L	3I
+240 	A		C	D		F		H	I	J	K		3H	3J	3F	3C	3A	3D	3I	3K
+241 	A		C	D		F	G			J	K	L	3C	3G	3J	3D	3A	3F	3L	3K
+242 	A		C	D		F	G		I		K	L	3C	3G	3I	3D	3A	3F	3L	3K
+243 	A		C	D		F	G		I	J		L	3C	3G	3J	3D	3A	3F	3L	3I
+244 	A		C	D		F	G		I	J	K		3C	3G	3J	3D	3A	3F	3I	3K
+245 	A		C	D		F	G	H			K	L	3H	3G	3F	3C	3A	3D	3L	3K
+246 	A		C	D		F	G	H		J		L	3C	3G	3J	3D	3A	3F	3L	3H
+247 	A		C	D		F	G	H		J	K		3H	3G	3J	3C	3A	3F	3D	3K
+248 	A		C	D		F	G	H	I			L	3H	3G	3F	3C	3A	3D	3L	3I
+249 	A		C	D		F	G	H	I		K		3H	3G	3F	3C	3A	3D	3I	3K
+250 	A		C	D		F	G	H	I	J			3H	3G	3J	3C	3A	3F	3D	3I
+251 	A		C	D	E				I	J	K	L	3E	3J	3I	3C	3A	3D	3L	3K
+252 	A		C	D	E			H		J	K	L	3H	3J	3E	3C	3A	3D	3L	3K
+253 	A		C	D	E			H	I		K	L	3H	3E	3I	3C	3A	3D	3L	3K
+254 	A		C	D	E			H	I	J		L	3H	3J	3E	3C	3A	3D	3L	3I
+255 	A		C	D	E			H	I	J	K		3H	3J	3E	3C	3A	3D	3I	3K
+256 	A		C	D	E		G			J	K	L	3E	3G	3J	3C	3A	3D	3L	3K
+257 	A		C	D	E		G		I		K	L	3E	3G	3I	3C	3A	3D	3L	3K
+258 	A		C	D	E		G		I	J		L	3E	3G	3J	3C	3A	3D	3L	3I
+259 	A		C	D	E		G		I	J	K		3E	3G	3J	3C	3A	3D	3I	3K
+260 	A		C	D	E		G	H			K	L	3H	3G	3E	3C	3A	3D	3L	3K
+261 	A		C	D	E		G	H		J		L	3H	3G	3J	3C	3A	3D	3L	3E
+262 	A		C	D	E		G	H		J	K		3H	3G	3J	3C	3A	3D	3E	3K
+263 	A		C	D	E		G	H	I			L	3H	3G	3E	3C	3A	3D	3L	3I
+264 	A		C	D	E		G	H	I		K		3H	3G	3E	3C	3A	3D	3I	3K
+265 	A		C	D	E		G	H	I	J			3H	3G	3J	3C	3A	3D	3E	3I
+266 	A		C	D	E	F				J	K	L	3C	3J	3E	3D	3A	3F	3L	3K
+267 	A		C	D	E	F			I		K	L	3C	3E	3I	3D	3A	3F	3L	3K
+268 	A		C	D	E	F			I	J		L	3C	3J	3E	3D	3A	3F	3L	3I
+269 	A		C	D	E	F			I	J	K		3C	3J	3E	3D	3A	3F	3I	3K
+270 	A		C	D	E	F		H			K	L	3H	3E	3F	3C	3A	3D	3L	3K
+271 	A		C	D	E	F		H		J		L	3H	3J	3F	3C	3A	3D	3L	3E
+272 	A		C	D	E	F		H		J	K		3H	3J	3E	3C	3A	3F	3D	3K
+273 	A		C	D	E	F		H	I			L	3H	3E	3F	3C	3A	3D	3L	3I
+274 	A		C	D	E	F		H	I		K		3H	3E	3F	3C	3A	3D	3I	3K
+275 	A		C	D	E	F		H	I	J			3H	3J	3E	3C	3A	3F	3D	3I
+276 	A		C	D	E	F	G				K	L	3C	3G	3E	3D	3A	3F	3L	3K
+277 	A		C	D	E	F	G			J		L	3C	3G	3J	3D	3A	3F	3L	3E
+278 	A		C	D	E	F	G			J	K		3C	3G	3J	3D	3A	3F	3E	3K
+279 	A		C	D	E	F	G		I			L	3C	3G	3E	3D	3A	3F	3L	3I
+280 	A		C	D	E	F	G		I		K		3C	3G	3E	3D	3A	3F	3I	3K
+281 	A		C	D	E	F	G		I	J			3C	3G	3J	3D	3A	3F	3E	3I
+282 	A		C	D	E	F	G	H				L	3H	3G	3F	3C	3A	3D	3L	3E
+283 	A		C	D	E	F	G	H			K		3H	3G	3E	3C	3A	3F	3D	3K
+284 	A		C	D	E	F	G	H		J			3H	3G	3J	3C	3A	3F	3D	3E
+285 	A		C	D	E	F	G	H	I				3H	3G	3E	3C	3A	3F	3D	3I
+286 	A	B					G	H	I	J	K	L	3H	3J	3B	3A	3I	3G	3L	3K
+287 	A	B				F		H	I	J	K	L	3H	3J	3B	3A	3I	3F	3L	3K
+288 	A	B				F	G		I	J	K	L	3I	3J	3B	3F	3A	3G	3L	3K
+289 	A	B				F	G	H		J	K	L	3H	3J	3B	3F	3A	3G	3L	3K
+290 	A	B				F	G	H	I		K	L	3H	3G	3B	3A	3I	3F	3L	3K
+291 	A	B				F	G	H	I	J		L	3H	3J	3B	3F	3A	3G	3L	3I
+292 	A	B				F	G	H	I	J	K		3H	3J	3B	3F	3A	3G	3I	3K
+293 	A	B			E			H	I	J	K	L	3E	3J	3B	3A	3I	3H	3L	3K
+294 	A	B			E		G		I	J	K	L	3E	3J	3B	3A	3I	3G	3L	3K
+295 	A	B			E		G	H		J	K	L	3E	3J	3B	3A	3H	3G	3L	3K
+296 	A	B			E		G	H	I		K	L	3E	3G	3B	3A	3I	3H	3L	3K
+297 	A	B			E		G	H	I	J		L	3E	3J	3B	3A	3H	3G	3L	3I
+298 	A	B			E		G	H	I	J	K		3E	3J	3B	3A	3H	3G	3I	3K
+299 	A	B			E	F			I	J	K	L	3E	3J	3B	3A	3I	3F	3L	3K
+300 	A	B			E	F		H		J	K	L	3E	3J	3B	3F	3A	3H	3L	3K
+301 	A	B			E	F		H	I		K	L	3E	3I	3B	3F	3A	3H	3L	3K
+302 	A	B			E	F		H	I	J		L	3E	3J	3B	3F	3A	3H	3L	3I
+303 	A	B			E	F		H	I	J	K		3E	3J	3B	3F	3A	3H	3I	3K
+304 	A	B			E	F	G			J	K	L	3E	3J	3B	3F	3A	3G	3L	3K
+305 	A	B			E	F	G		I		K	L	3E	3G	3B	3A	3I	3F	3L	3K
+306 	A	B			E	F	G		I	J		L	3E	3J	3B	3F	3A	3G	3L	3I
+307 	A	B			E	F	G		I	J	K		3E	3J	3B	3F	3A	3G	3I	3K
+308 	A	B			E	F	G	H			K	L	3E	3G	3B	3F	3A	3H	3L	3K
+309 	A	B			E	F	G	H		J		L	3H	3J	3B	3F	3A	3G	3L	3E
+310 	A	B			E	F	G	H		J	K		3H	3J	3B	3F	3A	3G	3E	3K
+311 	A	B			E	F	G	H	I			L	3E	3G	3B	3F	3A	3H	3L	3I
+312 	A	B			E	F	G	H	I		K		3E	3G	3B	3F	3A	3H	3I	3K
+313 	A	B			E	F	G	H	I	J			3H	3J	3B	3F	3A	3G	3E	3I
+314 	A	B		D				H	I	J	K	L	3I	3J	3B	3D	3A	3H	3L	3K
+315 	A	B		D			G		I	J	K	L	3I	3J	3B	3D	3A	3G	3L	3K
+316 	A	B		D			G	H		J	K	L	3H	3J	3B	3D	3A	3G	3L	3K
+317 	A	B		D			G	H	I		K	L	3I	3G	3B	3D	3A	3H	3L	3K
+318 	A	B		D			G	H	I	J		L	3H	3J	3B	3D	3A	3G	3L	3I
+319 	A	B		D			G	H	I	J	K		3H	3J	3B	3D	3A	3G	3I	3K
+320 	A	B		D		F			I	J	K	L	3I	3J	3B	3D	3A	3F	3L	3K
+321 	A	B		D		F		H		J	K	L	3H	3J	3B	3D	3A	3F	3L	3K
+322 	A	B		D		F		H	I		K	L	3H	3I	3B	3D	3A	3F	3L	3K
+323 	A	B		D		F		H	I	J		L	3H	3J	3B	3D	3A	3F	3L	3I
+324 	A	B		D		F		H	I	J	K		3H	3J	3B	3D	3A	3F	3I	3K
+325 	A	B		D		F	G			J	K	L	3F	3J	3B	3D	3A	3G	3L	3K
+326 	A	B		D		F	G		I		K	L	3I	3G	3B	3D	3A	3F	3L	3K
+327 	A	B		D		F	G		I	J		L	3F	3J	3B	3D	3A	3G	3L	3I
+328 	A	B		D		F	G		I	J	K		3F	3J	3B	3D	3A	3G	3I	3K
+329 	A	B		D		F	G	H			K	L	3H	3G	3B	3D	3A	3F	3L	3K
+330 	A	B		D		F	G	H		J		L	3H	3G	3B	3D	3A	3F	3L	3J
+331 	A	B		D		F	G	H		J	K		3H	3G	3B	3D	3A	3F	3J	3K
+332 	A	B		D		F	G	H	I			L	3H	3G	3B	3D	3A	3F	3L	3I
+333 	A	B		D		F	G	H	I		K		3H	3G	3B	3D	3A	3F	3I	3K
+334 	A	B		D		F	G	H	I	J			3H	3G	3B	3D	3A	3F	3I	3J
+335 	A	B		D	E				I	J	K	L	3E	3J	3B	3A	3I	3D	3L	3K
+336 	A	B		D	E			H		J	K	L	3E	3J	3B	3D	3A	3H	3L	3K
+337 	A	B		D	E			H	I		K	L	3E	3I	3B	3D	3A	3H	3L	3K
+338 	A	B		D	E			H	I	J		L	3E	3J	3B	3D	3A	3H	3L	3I
+339 	A	B		D	E			H	I	J	K		3E	3J	3B	3D	3A	3H	3I	3K
+340 	A	B		D	E		G			J	K	L	3E	3J	3B	3D	3A	3G	3L	3K
+341 	A	B		D	E		G		I		K	L	3E	3G	3B	3A	3I	3D	3L	3K
+342 	A	B		D	E		G		I	J		L	3E	3J	3B	3D	3A	3G	3L	3I
+343 	A	B		D	E		G		I	J	K		3E	3J	3B	3D	3A	3G	3I	3K
+344 	A	B		D	E		G	H			K	L	3E	3G	3B	3D	3A	3H	3L	3K
+345 	A	B		D	E		G	H		J		L	3H	3J	3B	3D	3A	3G	3L	3E
+346 	A	B		D	E		G	H		J	K		3H	3J	3B	3D	3A	3G	3E	3K
+347 	A	B		D	E		G	H	I			L	3E	3G	3B	3D	3A	3H	3L	3I
+348 	A	B		D	E		G	H	I		K		3E	3G	3B	3D	3A	3H	3I	3K
+349 	A	B		D	E		G	H	I	J			3H	3J	3B	3D	3A	3G	3E	3I
+350 	A	B		D	E	F				J	K	L	3E	3J	3B	3D	3A	3F	3L	3K
+351 	A	B		D	E	F			I		K	L	3E	3I	3B	3D	3A	3F	3L	3K
+352 	A	B		D	E	F			I	J		L	3E	3J	3B	3D	3A	3F	3L	3I
+353 	A	B		D	E	F			I	J	K		3E	3J	3B	3D	3A	3F	3I	3K
+354 	A	B		D	E	F		H			K	L	3H	3E	3B	3D	3A	3F	3L	3K
+355 	A	B		D	E	F		H		J		L	3H	3J	3B	3D	3A	3F	3L	3E
+356 	A	B		D	E	F		H		J	K		3H	3J	3B	3D	3A	3F	3E	3K
+357 	A	B		D	E	F		H	I			L	3H	3E	3B	3D	3A	3F	3L	3I
+358 	A	B		D	E	F		H	I		K		3H	3E	3B	3D	3A	3F	3I	3K
+359 	A	B		D	E	F		H	I	J			3H	3J	3B	3D	3A	3F	3E	3I
+360 	A	B		D	E	F	G				K	L	3E	3G	3B	3D	3A	3F	3L	3K
+361 	A	B		D	E	F	G			J		L	3E	3G	3B	3D	3A	3F	3L	3J
+362 	A	B		D	E	F	G			J	K		3E	3G	3B	3D	3A	3F	3J	3K
+363 	A	B		D	E	F	G		I			L	3E	3G	3B	3D	3A	3F	3L	3I
+364 	A	B		D	E	F	G		I		K		3E	3G	3B	3D	3A	3F	3I	3K
+365 	A	B		D	E	F	G		I	J			3E	3G	3B	3D	3A	3F	3I	3J
+366 	A	B		D	E	F	G	H				L	3H	3G	3B	3D	3A	3F	3L	3E
+367 	A	B		D	E	F	G	H			K		3H	3G	3B	3D	3A	3F	3E	3K
+368 	A	B		D	E	F	G	H		J			3H	3G	3B	3D	3A	3F	3E	3J
+369 	A	B		D	E	F	G	H	I				3H	3G	3B	3D	3A	3F	3E	3I
+370 	A	B	C					H	I	J	K	L	3I	3J	3B	3C	3A	3H	3L	3K
+371 	A	B	C				G		I	J	K	L	3I	3J	3B	3C	3A	3G	3L	3K
+372 	A	B	C				G	H		J	K	L	3H	3J	3B	3C	3A	3G	3L	3K
+373 	A	B	C				G	H	I		K	L	3I	3G	3B	3C	3A	3H	3L	3K
+374 	A	B	C				G	H	I	J		L	3H	3J	3B	3C	3A	3G	3L	3I
+375 	A	B	C				G	H	I	J	K		3H	3J	3B	3C	3A	3G	3I	3K
+376 	A	B	C			F			I	J	K	L	3I	3J	3B	3C	3A	3F	3L	3K
+377 	A	B	C			F		H		J	K	L	3H	3J	3B	3C	3A	3F	3L	3K
+378 	A	B	C			F		H	I		K	L	3H	3I	3B	3C	3A	3F	3L	3K
+379 	A	B	C			F		H	I	J		L	3H	3J	3B	3C	3A	3F	3L	3I
+380 	A	B	C			F		H	I	J	K		3H	3J	3B	3C	3A	3F	3I	3K
+381 	A	B	C			F	G			J	K	L	3C	3J	3B	3F	3A	3G	3L	3K
+382 	A	B	C			F	G		I		K	L	3I	3G	3B	3C	3A	3F	3L	3K
+383 	A	B	C			F	G		I	J		L	3C	3J	3B	3F	3A	3G	3L	3I
+384 	A	B	C			F	G		I	J	K		3C	3J	3B	3F	3A	3G	3I	3K
+385 	A	B	C			F	G	H			K	L	3H	3G	3B	3C	3A	3F	3L	3K
+386 	A	B	C			F	G	H		J		L	3H	3G	3B	3C	3A	3F	3L	3J
+387 	A	B	C			F	G	H		J	K		3H	3G	3B	3C	3A	3F	3J	3K
+388 	A	B	C			F	G	H	I			L	3H	3G	3B	3C	3A	3F	3L	3I
+389 	A	B	C			F	G	H	I		K		3H	3G	3B	3C	3A	3F	3I	3K
+390 	A	B	C			F	G	H	I	J			3H	3G	3B	3C	3A	3F	3I	3J
+391 	A	B	C		E				I	J	K	L	3E	3J	3B	3A	3I	3C	3L	3K
+392 	A	B	C		E			H		J	K	L	3E	3J	3B	3C	3A	3H	3L	3K
+393 	A	B	C		E			H	I		K	L	3E	3I	3B	3C	3A	3H	3L	3K
+394 	A	B	C		E			H	I	J		L	3E	3J	3B	3C	3A	3H	3L	3I
+395 	A	B	C		E			H	I	J	K		3E	3J	3B	3C	3A	3H	3I	3K
+396 	A	B	C		E		G			J	K	L	3E	3J	3B	3C	3A	3G	3L	3K
+397 	A	B	C		E		G		I		K	L	3E	3G	3B	3A	3I	3C	3L	3K
+398 	A	B	C		E		G		I	J		L	3E	3J	3B	3C	3A	3G	3L	3I
+399 	A	B	C		E		G		I	J	K		3E	3J	3B	3C	3A	3G	3I	3K
+400 	A	B	C		E		G	H			K	L	3E	3G	3B	3C	3A	3H	3L	3K
+401 	A	B	C		E		G	H		J		L	3H	3J	3B	3C	3A	3G	3L	3E
+402 	A	B	C		E		G	H		J	K		3H	3J	3B	3C	3A	3G	3E	3K
+403 	A	B	C		E		G	H	I			L	3E	3G	3B	3C	3A	3H	3L	3I
+404 	A	B	C		E		G	H	I		K		3E	3G	3B	3C	3A	3H	3I	3K
+405 	A	B	C		E		G	H	I	J			3H	3J	3B	3C	3A	3G	3E	3I
+406 	A	B	C		E	F				J	K	L	3E	3J	3B	3C	3A	3F	3L	3K
+407 	A	B	C		E	F			I		K	L	3E	3I	3B	3C	3A	3F	3L	3K
+408 	A	B	C		E	F			I	J		L	3E	3J	3B	3C	3A	3F	3L	3I
+409 	A	B	C		E	F			I	J	K		3E	3J	3B	3C	3A	3F	3I	3K
+410 	A	B	C		E	F		H			K	L	3H	3E	3B	3C	3A	3F	3L	3K
+411 	A	B	C		E	F		H		J		L	3H	3J	3B	3C	3A	3F	3L	3E
+412 	A	B	C		E	F		H		J	K		3H	3J	3B	3C	3A	3F	3E	3K
+413 	A	B	C		E	F		H	I			L	3H	3E	3B	3C	3A	3F	3L	3I
+414 	A	B	C		E	F		H	I		K		3H	3E	3B	3C	3A	3F	3I	3K
+415 	A	B	C		E	F		H	I	J			3H	3J	3B	3C	3A	3F	3E	3I
+416 	A	B	C		E	F	G				K	L	3E	3G	3B	3C	3A	3F	3L	3K
+417 	A	B	C		E	F	G			J		L	3E	3G	3B	3C	3A	3F	3L	3J
+418 	A	B	C		E	F	G			J	K		3E	3G	3B	3C	3A	3F	3J	3K
+419 	A	B	C		E	F	G		I			L	3E	3G	3B	3C	3A	3F	3L	3I
+420 	A	B	C		E	F	G		I		K		3E	3G	3B	3C	3A	3F	3I	3K
+421 	A	B	C		E	F	G		I	J			3E	3G	3B	3C	3A	3F	3I	3J
+422 	A	B	C		E	F	G	H				L	3H	3G	3B	3C	3A	3F	3L	3E
+423 	A	B	C		E	F	G	H			K		3H	3G	3B	3C	3A	3F	3E	3K
+424 	A	B	C		E	F	G	H		J			3H	3G	3B	3C	3A	3F	3E	3J
+425 	A	B	C		E	F	G	H	I				3H	3G	3B	3C	3A	3F	3E	3I
+426 	A	B	C	D					I	J	K	L	3I	3J	3B	3C	3A	3D	3L	3K
+427 	A	B	C	D				H		J	K	L	3H	3J	3B	3C	3A	3D	3L	3K
+428 	A	B	C	D				H	I		K	L	3H	3I	3B	3C	3A	3D	3L	3K
+429 	A	B	C	D				H	I	J		L	3H	3J	3B	3C	3A	3D	3L	3I
+430 	A	B	C	D				H	I	J	K		3H	3J	3B	3C	3A	3D	3I	3K
+431 	A	B	C	D			G			J	K	L	3C	3J	3B	3D	3A	3G	3L	3K
+432 	A	B	C	D			G		I		K	L	3I	3G	3B	3C	3A	3D	3L	3K
+433 	A	B	C	D			G		I	J		L	3C	3J	3B	3D	3A	3G	3L	3I
+434 	A	B	C	D			G		I	J	K		3C	3J	3B	3D	3A	3G	3I	3K
+435 	A	B	C	D			G	H			K	L	3H	3G	3B	3C	3A	3D	3L	3K
+436 	A	B	C	D			G	H		J		L	3H	3G	3B	3C	3A	3D	3L	3J
+437 	A	B	C	D			G	H		J	K		3H	3G	3B	3C	3A	3D	3J	3K
+438 	A	B	C	D			G	H	I			L	3H	3G	3B	3C	3A	3D	3L	3I
+439 	A	B	C	D			G	H	I		K		3H	3G	3B	3C	3A	3D	3I	3K
+440 	A	B	C	D			G	H	I	J			3H	3G	3B	3C	3A	3D	3I	3J
+441 	A	B	C	D		F				J	K	L	3C	3J	3B	3D	3A	3F	3L	3K
+442 	A	B	C	D		F			I		K	L	3C	3I	3B	3D	3A	3F	3L	3K
+443 	A	B	C	D		F			I	J		L	3C	3J	3B	3D	3A	3F	3L	3I
+444 	A	B	C	D		F			I	J	K		3C	3J	3B	3D	3A	3F	3I	3K
+445 	A	B	C	D		F		H			K	L	3H	3F	3B	3C	3A	3D	3L	3K
+446 	A	B	C	D		F		H		J		L	3C	3J	3B	3D	3A	3F	3L	3H
+447 	A	B	C	D		F		H		J	K		3H	3J	3B	3C	3A	3F	3D	3K
+448 	A	B	C	D		F		H	I			L	3H	3F	3B	3C	3A	3D	3L	3I
+449 	A	B	C	D		F		H	I		K		3H	3F	3B	3C	3A	3D	3I	3K
+450 	A	B	C	D		F		H	I	J			3H	3J	3B	3C	3A	3F	3D	3I
+451 	A	B	C	D		F	G				K	L	3C	3G	3B	3D	3A	3F	3L	3K
+452 	A	B	C	D		F	G			J		L	3C	3G	3B	3D	3A	3F	3L	3J
+453 	A	B	C	D		F	G			J	K		3C	3G	3B	3D	3A	3F	3J	3K
+454 	A	B	C	D		F	G		I			L	3C	3G	3B	3D	3A	3F	3L	3I
+455 	A	B	C	D		F	G		I		K		3C	3G	3B	3D	3A	3F	3I	3K
+456 	A	B	C	D		F	G		I	J			3C	3G	3B	3D	3A	3F	3I	3J
+457 	A	B	C	D		F	G	H				L	3C	3G	3B	3D	3A	3F	3L	3H
+458 	A	B	C	D		F	G	H			K		3H	3G	3B	3C	3A	3F	3D	3K
+459 	A	B	C	D		F	G	H		J			3H	3G	3B	3C	3A	3F	3D	3J
+460 	A	B	C	D		F	G	H	I				3H	3G	3B	3C	3A	3F	3D	3I
+461 	A	B	C	D	E					J	K	L	3E	3J	3B	3C	3A	3D	3L	3K
+462 	A	B	C	D	E				I		K	L	3E	3I	3B	3C	3A	3D	3L	3K
+463 	A	B	C	D	E				I	J		L	3E	3J	3B	3C	3A	3D	3L	3I
+464 	A	B	C	D	E				I	J	K		3E	3J	3B	3C	3A	3D	3I	3K
+465 	A	B	C	D	E			H			K	L	3H	3E	3B	3C	3A	3D	3L	3K
+466 	A	B	C	D	E			H		J		L	3H	3J	3B	3C	3A	3D	3L	3E
+467 	A	B	C	D	E			H		J	K		3H	3J	3B	3C	3A	3D	3E	3K
+468 	A	B	C	D	E			H	I			L	3H	3E	3B	3C	3A	3D	3L	3I
+469 	A	B	C	D	E			H	I		K		3H	3E	3B	3C	3A	3D	3I	3K
+470 	A	B	C	D	E			H	I	J			3H	3J	3B	3C	3A	3D	3E	3I
+471 	A	B	C	D	E		G				K	L	3E	3G	3B	3C	3A	3D	3L	3K
+472 	A	B	C	D	E		G			J		L	3E	3G	3B	3C	3A	3D	3L	3J
+473 	A	B	C	D	E		G			J	K		3E	3G	3B	3C	3A	3D	3J	3K
+474 	A	B	C	D	E		G		I			L	3E	3G	3B	3C	3A	3D	3L	3I
+475 	A	B	C	D	E		G		I		K		3E	3G	3B	3C	3A	3D	3I	3K
+476 	A	B	C	D	E		G		I	J			3E	3G	3B	3C	3A	3D	3I	3J
+477 	A	B	C	D	E		G	H				L	3H	3G	3B	3C	3A	3D	3L	3E
+478 	A	B	C	D	E		G	H			K		3H	3G	3B	3C	3A	3D	3E	3K
+479 	A	B	C	D	E		G	H		J			3H	3G	3B	3C	3A	3D	3E	3J
+480 	A	B	C	D	E		G	H	I				3H	3G	3B	3C	3A	3D	3E	3I
+481 	A	B	C	D	E	F					K	L	3C	3E	3B	3D	3A	3F	3L	3K
+482 	A	B	C	D	E	F				J		L	3C	3J	3B	3D	3A	3F	3L	3E
+483 	A	B	C	D	E	F				J	K		3C	3J	3B	3D	3A	3F	3E	3K
+484 	A	B	C	D	E	F			I			L	3C	3E	3B	3D	3A	3F	3L	3I
+485 	A	B	C	D	E	F			I		K		3C	3E	3B	3D	3A	3F	3I	3K
+486 	A	B	C	D	E	F			I	J			3C	3J	3B	3D	3A	3F	3E	3I
+487 	A	B	C	D	E	F		H				L	3H	3F	3B	3C	3A	3D	3L	3E
+488 	A	B	C	D	E	F		H			K		3H	3E	3B	3C	3A	3F	3D	3K
+489 	A	B	C	D	E	F		H		J			3H	3J	3B	3C	3A	3F	3D	3E
+490 	A	B	C	D	E	F		H	I				3H	3E	3B	3C	3A	3F	3D	3I
+491 	A	B	C	D	E	F	G					L	3C	3G	3B	3D	3A	3F	3L	3E
+492 	A	B	C	D	E	F	G				K		3C	3G	3B	3D	3A	3F	3E	3K
+493 	A	B	C	D	E	F	G			J			3C	3G	3B	3D	3A	3F	3E	3J
+494 	A	B	C	D	E	F	G		I				3C	3G	3B	3D	3A	3F	3E	3I
+495 	A	B	C	D	E	F	G	H					3H	3G	3B	3C	3A	3F	3D	3E
+Qualified teams
+
+The top two teams from each of the twelve groups, along with the eight best-ranked third-placed teams, qualified for the knockout stage.[2]
+Group 	Winners 	Runners-up 	Third-placed teams
+(Best eight qualify)
+A 	 Mexico 	 South Africa 	—N/a
+B 	 Switzerland 	 Canada 	 Bosnia and Herzegovina
+C 	 Brazil 	 Morocco 	—N/a
+D 	 United States 	 Australia 	 Paraguay
+E 	 Germany 	 Ivory Coast 	 Ecuador
+F 	 Netherlands 	 Japan 	 Sweden
+G 	 Belgium 	 Egypt 	—N/a
+H 	 Spain 	 Cape Verde 	—N/a
+I 	 France 	 Norway 	 Senegal
+J 	 Argentina 	 Austria 	 Algeria
+K 	 Colombia 	 Portugal 	 DR Congo
+L 	 England 	 Croatia 	 Ghana
+Bracket
+
+The tournament bracket is shown below, with bold denoting the winners of each match.
+
+	Round of 32		Round of 16		Quarterfinals		Semifinals		Final
+
+
+
+	June 29 – Foxborough
+
+
+	 Germany	1 (3)
+
+	July 4 – Philadelphia
+
+	 Paraguay (p)	1 (4)
+
+	 Paraguay	0
+
+	June 30 – East Rutherford
+
+		 France	1
+
+	 France	3
+
+		July 9 – Foxborough
+
+	 Sweden	0
+
+	 France	2
+
+	June 28 – Inglewood
+
+		 Morocco	0
+
+	 South Africa	0
+
+	July 4 – Houston
+
+	 Canada	1
+
+	 Canada	0
+
+	June 29 – Guadalupe
+
+		 Morocco	3
+
+	 Netherlands	1 (2)
+
+		July 14 – Arlington
+
+	 Morocco (p)	1 (3)
+
+	 France	0
+
+	July 2 – Toronto
+
+		 Spain	2
+
+	 Portugal	2
+
+	July 6 – Arlington
+
+	 Croatia	1
+
+	 Portugal	0
+
+	July 2 – Inglewood
+
+		 Spain	1
+
+	 Spain	3
+
+		July 10 – Inglewood
+
+	 Austria	0
+
+	 Spain	2
+
+	July 1 – Santa Clara
+
+		 Belgium	1
+
+	 United States	2
+
+	July 6 – Seattle
+
+	 Bosnia and Herzegovina	0
+
+	 United States	1
+
+	July 1 – Seattle
+
+		 Belgium	4
+
+	 Belgium (a.e.t.)	3
+
+		July 19 – East Rutherford
+
+	 Senegal	2
+
+	 Spain (a.e.t.)	1
+
+	June 29 – Houston
+
+		 Argentina	0
+
+	 Brazil	2
+
+	July 5 – East Rutherford
+
+	 Japan	1
+
+	 Brazil	1
+
+	June 30 – Arlington
+
+		 Norway	2
+
+	 Ivory Coast	1
+
+		July 11 – Miami Gardens
+
+	 Norway	2
+
+	 Norway	1
+
+	June 30 – Mexico City
+
+		 England (a.e.t.)	2
+
+	 Mexico	2
+
+	July 5 – Mexico City
+
+	 Ecuador	0
+
+	 Mexico	2
+
+	July 1 – Atlanta
+
+		 England	3
+
+	 England	2
+
+		July 15 – Atlanta
+
+	 DR Congo	1
+
+	 England	1
+
+	July 3 – Miami Gardens
+
+		 Argentina	2 		Match for third place
+
+	 Argentina (a.e.t.)	3
+
+	July 7 – Atlanta		July 18 – Miami Gardens
+
+	 Cape Verde	2
+
+	 Argentina	3	 France	4
+
+	July 3 – Arlington
+
+		 Egypt	2 		 England	6
+
+	 Australia	1 (2)
+
+		July 11 – Kansas City
+
+	 Egypt (p)	1 (4)
+
+	 Argentina (a.e.t.)	3
+
+	July 2 – Vancouver
+
+		 Switzerland	1
+
+	 Switzerland	2
+
+	July 7 – Vancouver
+
+	 Algeria	0
+
+	 Switzerland (p)	0 (4)
+
+	July 3 – Kansas City
+
+		 Colombia	0 (3)
+
+	 Colombia	1
+
+
+
+	 Ghana	0
+
+Round of 32
+Main article: 2026 FIFA World Cup round of 32
+June 28, 2026
+12:00 p.m. UTC−7
+South Africa 	0–1	 Canada
+	[Report 1]
+
+    Eustáquio 90+2'
+
+SoFi Stadium, Inglewood
+Attendance: 69,237
+Referee: João Pinheiro (Portugal)
+June 29, 2026
+12:00 p.m. UTC−5
+Brazil 	2–1	 Japan
+
+    Casemiro 56'
+    Martinelli 90+5'
+
+	[Report 2]
+
+    Sano 29'
+
+NRG Stadium, Houston
+Attendance: 68,777
+Referee: Maurizio Mariani (Italy)
+June 29, 2026
+4:30 p.m. UTC−4
+Germany 	1–1 (a.e.t.)	 Paraguay
+
+    Havertz 54'
+
+	[Report 3]
+
+    Enciso 42'
+
+Penalties
+
+    Havertz football with red X
+    Kimmich football with check mark
+    Musiala football with check mark
+    Woltemade football with red X
+    Amiri football with check mark
+    Tah football with red X
+
+	3–4
+
+    football with check mark Maurício
+    football with check mark G. Gómez
+    football with check mark Galarza
+    football with red X Sanabria
+    football with red X Balbuena
+    football with check mark Canale
+
+Gillette Stadium, Foxborough
+Attendance: 63,945
+Referee: Jalal Jayed (Morocco)
+June 29, 2026
+7:00 p.m. UTC−6
+Netherlands 	1–1 (a.e.t.)	 Morocco
+
+    Gakpo 72'
+
+	[Report 4]
+
+    Diop 90+1'
+
+Penalties
+
+    Koopmeiners football with check mark
+    Kluivert football with red X
+    Weghorst football with check mark
+    Timber football with red X
+    Summerville football with red X
+
+	2–3
+
+    football with red X El Aynaoui
+    football with check mark Rahimi
+    football with check mark Talbi
+    football with red X Hakimi
+    football with check mark Saibari
+
+Estadio BBVA, Guadalupe
+Attendance: 51,243
+Referee: Wilton Sampaio (Brazil)
+June 30, 2026
+12:00 p.m. UTC−5
+Ivory Coast 	1–2	 Norway
+
+    Diallo 74'
+
+	[Report 5]
+
+    Nusa 39'
+    Haaland 86'
+
+AT&T Stadium, Arlington
+Attendance: 69,665
+Referee: Jesús Valenzuela (Venezuela)
+June 30, 2026
+5:00 p.m. UTC−4
+France 	3–0	 Sweden
+
+    Mbappé 45', 74'
+    Barcola 53'
+
+	[Report 6]
+MetLife Stadium, East Rutherford
+Attendance: 80,663
+Referee: Danny Makkelie (Netherlands)
+June 30, 2026
+8:00 p.m. UTC−6[A]
+Mexico 	2–0	 Ecuador
+
+    Quiñones 22'
+    Jiménez 31'
+
+	[Report 7]
+Estadio Azteca, Mexico City
+Attendance: 80,824
+Referee: Slavko Vinčić (Slovenia)
+July 1, 2026
+12:00 p.m. UTC−4
+England 	2–1	 DR Congo
+
+    Kane 75', 86'
+
+	[Report 8]
+
+    Cipenga 7'
+
+Mercedes-Benz Stadium, Atlanta
+Attendance: 68,239
+Referee: Adham Makhadmeh (Jordan)
+July 1, 2026
+1:00 p.m. UTC−7
+Belgium 	3–2 (a.e.t.)	 Senegal
+
+    Lukaku 86'
+    Tielemans 89', 120+5' (pen.)
+
+	[Report 9]
+
+    Diarra 25'
+    I. Sarr 51'
+
+Lumen Field, Seattle
+Attendance: 66,925
+Referee: Saíd Martínez (Honduras)
+July 1, 2026
+5:00 p.m. UTC−7
+United States 	2–0	 Bosnia and Herzegovina
+
+    Balogun 45'
+    Tillman 82'
+
+	[Report 10]
+Levi's Stadium, Santa Clara
+Attendance: 68,827
+Referee: Raphael Claus (Brazil)
+July 2, 2026
+12:00 p.m. UTC−7
+Spain 	3–0	 Austria
+
+    Oyarzabal 36', 89'
+    Porro 66'
+
+	[Report 11]
+SoFi Stadium, Inglewood
+Attendance: 70,492
+Referee: Glenn Nyberg (Sweden)
+July 2, 2026
+7:00 p.m. UTC−4
+Portugal 	2–1	 Croatia
+
+    Ronaldo 68' (pen.)
+    Ramos 90+4'
+
+	[Report 12]
+
+    Perišić 53'
+
+BMO Field, Toronto
+Attendance: 43,036
+Referee: Espen Eskås (Norway)
+July 2, 2026
+8:00 p.m. UTC−7
+Switzerland 	2–0	 Algeria
+
+    Embolo 10'
+    Ndoye 46'
+
+	[Report 13]
+BC Place, Vancouver
+Attendance: 52,497
+Referee: Yael Falcón (Argentina)
+July 3, 2026
+1:00 p.m. UTC−5
+Australia 	1–1 (a.e.t.)	 Egypt
+
+    Hany red-colored football 55' (o.g.)
+
+	[Report 14]
+
+    Ashour 13'
+
+Penalties
+
+    Souttar football with red X
+    Irvine football with check mark
+    Mabil football with check mark
+    Herrington football with red X
+
+	2–4
+
+    football with check mark Saber
+    football with check mark Rabia
+    football with check mark Salah
+    football with check mark Abdelmaguid
+
+AT&T Stadium, Arlington
+Attendance: 70,244
+Referee: Gustavo Tejera (Uruguay)
+July 3, 2026
+6:00 p.m. UTC−4
+Argentina 	3–2 (a.e.t.)	 Cape Verde
+
+    Messi 29'
+    Li. Martínez 92'
+    Diney red-colored football 111' (o.g.)
+
+	[Report 15]
+
+    D. Duarte 59'
+    Lopes Cabral 103'
+
+Hard Rock Stadium, Miami Gardens
+Attendance: 64,478
+Referee: Drew Fischer (Canada)
+July 3, 2026
+8:30 p.m. UTC−5
+Colombia 	1–0	 Ghana
+
+    J. Arias 14'
+
+	[Report 16]
+Arrowhead Stadium, Kansas City
+Attendance: 69,045
+Referee: Clément Turpin (France)
+Round of 16
+Canada vs Morocco
+
+The teams had faced each other four times previously, with Morocco being unbeaten in any of these matches. Their most recent match was in the group stage of the previous World Cup, which Morocco won 2–1.[4]
+
+A special ceremony commemorating the United States Semiquincentennial, marking the 250th anniversary of the United States Declaration of Independence, was held on the stadium grounds 25 minutes before kickoff.[5]
+
+In the 50th minute, Morocco took the lead when Azzedine Ounahi received the ball after a free-kick was cut-back to him from the right by Achraf Hakimi, before he shot from the edge of the penalty area, low into the bottom right corner of the net.[6] Ounahi got a second goal in the 82nd minute with a finish from twelve yards out high to the top right corner of the net after a pass from Brahim Díaz from the right. Soufiane Rahimi made it 3–0 in the 98th minute with a low finish under the goalkeeper to the right corner of the net from the left of the penalty area after another pass from Díaz.[7]
+
+With this result and Egypt's loss to Argentina, Morocco was the only African team to proceed to the quarterfinals while co-host Canada was eliminated, marking its best finish since its group-stage exits in 1986 and 2022.[8]
+July 4, 2026
+12:00 p.m. UTC−5
+Canada 	0–3	 Morocco
+	[Report 17]
+
+    Ounahi 50', 82'
+    Rahimi 90+8'
+
+NRG Stadium, Houston
+Attendance: 68,777
+Referee: Michael Oliver (England)
+Canada[9]
+
+Morocco[9]
+
+GK	16	Maxime Crépeau
+RB	2	Alistair Johnston
+CB	15	Moïse Bombito
+CB	4	Luc de Fougerolles	Yellow card 49'
+LB	22	Richie Laryea	Yellow card 40'	downward-facing red arrow 78'
+RM	17	Tajon Buchanan		downward-facing red arrow 87'
+CM	23	Niko Sigur		downward-facing red arrow 87'
+CM	7	Stephen Eustáquio (c)
+LM	20	Ali Ahmed		downward-facing red arrow 78'
+CF	10	Jonathan David	Yellow card 43'
+CF	12	Tani Oluwaseyi		downward-facing red arrow 63'
+Substitutions:
+FW	9	Cyle Larin	Yellow card 67'	upward-facing green arrow 63'
+FW	24	Promise David		upward-facing green arrow 78'
+MF	14	Jacob Shaffelburg		upward-facing green arrow 78'
+FW	26	Jayden Nelson		upward-facing green arrow 87'
+MF	21	Jonathan Osorio		upward-facing green arrow 87'
+Manager:
+United States Jesse Marsch
+
+
+GK	1	Yassine Bounou
+RB	2	Achraf Hakimi (c)	Yellow card 40'
+CB	14	Issa Diop		downward-facing red arrow 87'
+CB	25	Redouane Halhal	Yellow card 20'
+LB	3	Noussair Mazraoui
+CM	6	Ayyoub Bouaddi		downward-facing red arrow 63'
+CM	24	Neil El Aynaoui
+RW	10	Brahim Díaz
+AM	8	Azzedine Ounahi	Yellow card 45'	downward-facing red arrow 87'
+LW	23	Bilal El Khannouss	Yellow card 45+6'	downward-facing red arrow 63'
+CF	11	Ismael Saibari		downward-facing red arrow 22'
+Substitutions:
+FW	9	Soufiane Rahimi		upward-facing green arrow 22'
+MF	7	Chemsdine Talbi		upward-facing green arrow 63'
+MF	4	Sofyan Amrabat		upward-facing green arrow 63'
+DF	5	Marwane Saâdane		upward-facing green arrow 87'
+MF	15	Samir El Mourabet		upward-facing green arrow 87'
+Manager:
+Mohamed Ouahbi
+
+Man of the Match:
+Azzedine Ounahi (Morocco)[10]
+
+Assistant referees:[9]
+Stuart Burt (England)
+James Mainwaring (England)
+Fourth official:
+Danny Makkelie (Netherlands)
+Reserve assistant referee:
+Hessel Steegstra (Netherlands)
+Video assistant referee:
+Jarred Gillett (England)
+Assistant video assistant referee:
+Dennis Higler (Netherlands)
+Support video assistant referee:
+Tomasz Kwiatkowski [pl] (Poland)
+Paraguay vs France
+
+Paraguay had never defeated France in their five previous encounters, including two matches at the FIFA World Cup: a 7–3 group stage loss in 1958 and a 1–0 round of 16 defeat via golden goal at the 1998 FIFA World Cup (which France hosted and current manager Didier Deschamps also played in). Their latest meeting was a 5–0 friendly in 2017.[11]
+
+The match was played in extreme heat, with temperatures up to 38 °C (100 °F) at kickoff time.[12] In the 70th minute, France was awarded a penalty after a VAR intervention when substitute Désiré Doué was fouled inside the box by Diego Gómez. Kylian Mbappé scored a penalty with a low shot to the right corner, sending Paraguay goalkeeper Orlando Gill the wrong way. Paraguay committed 13 fouls to France's 11 during the game, but escaped without a single yellow card while France received three.[13] Global media were almost unanimous in condemning the Paraguayan team's systematic foul play,[14] as well as Ilgiz Tantashev's poor refereeing.[15]
+
+Alongside the Canada vs Morocco match in Houston, a special ceremony commemorating the 250th anniversary of the United States Declaration of Independence was held on the stadium grounds 25 minutes before kickoff.[5]
+
+After the match, Paraguayan Senator, Celeste Amarilla, racially abused Mbappé on social media and the latter made a statement on X in response. Amarilla made a response which was not well received.[16][17][18]
+July 4, 2026
+5:00 p.m. UTC−4
+Paraguay 	0–1	 France
+	[Report 18]
+
+    Mbappé 70' (pen.)
+
+Lincoln Financial Field, Philadelphia
+Attendance: 68,324
+Referee: Ilgiz Tantashev (Uzbekistan)
+Paraguay[19]
+
+France[19]
+
+GK	12	Orlando Gill
+CB	2	Gustavo Velázquez
+CB	15	Gustavo Gómez (c)
+CB	3	Omar Alderete		downward-facing red arrow 58'
+RWB	4	Juan José Cáceres
+LWB	6	Júnior Alonso
+RM	10	Miguel Almirón		downward-facing red arrow 71'
+CM	8	Diego Gómez		downward-facing red arrow 71'
+CM	14	Andrés Cubas
+LM	23	Matías Galarza
+CF	19	Julio Enciso		downward-facing red arrow 61'
+Substitutions:
+DF	13	José Canale		upward-facing green arrow 58'
+MF	24	Gustavo Caballero		upward-facing green arrow 61'
+FW	21	Gabriel Ávalos		upward-facing green arrow 71'
+MF	11	Maurício		upward-facing green arrow 71'
+Other disciplinary actions:
+TS	—	Carlos González	Yellow card FT
+Manager:
+Argentina Gustavo Alfaro
+
+
+GK	16	Mike Maignan
+RB	5	Jules Koundé
+CB	4	Dayot Upamecano
+CB	17	William Saliba
+LB	3	Lucas Digne
+CM	6	Manu Koné	Yellow card 81'
+CM	14	Adrien Rabiot
+RW	7	Ousmane Dembélé		downward-facing red arrow 84'
+AM	11	Michael Olise	Yellow card 90+7'
+LW	12	Bradley Barcola	Yellow card 19'	downward-facing red arrow 61'
+CF	10	Kylian Mbappé (c)
+Substitutions:
+FW	20	Désiré Doué		upward-facing green arrow 61'
+MF	24	Rayan Cherki		upward-facing green arrow 84'
+Manager:
+Didier Deschamps
+
+Man of the Match:
+Orlando Gill (Paraguay)[10]
+
+Assistant referees:[19]
+Andrey Tsapenko (Uzbekistan)
+Timur Gaynullin (Uzbekistan)
+Fourth official:
+Abdulrahman Al-Jassim (Qatar)
+Reserve assistant referee:
+Taleb Al-Marri (Qatar)
+Video assistant referee:
+Juan Lara [de] (Chile)
+Assistant video assistant referee:
+Marco Di Bello (Italy)
+Support video assistant referee:
+Joe Dickerson (United States)
+Brazil vs Norway
+
+The teams had met four times previously, including once in the World Cup, a 2–1 group stage victory for Norway in 1998, and most recently in 2006, a 1–1 draw in a friendly to keep Norway's unbeaten head-to-head record. Norway is the only team that Brazil has played but never defeated.[20]
+
+With Brazil's loss, this marks the first time the team was eliminated in the round of 16 since the 1990 edition, when Brazil lost to Argentina 1–0.[21] This was Neymar's last match for Brazil; following the defeat, he announced his international retirement.[22]
+July 5, 2026
+4:00 p.m. UTC−4
+Brazil 	1–2	 Norway
+
+    Neymar 90+10' (pen.)
+
+	[Report 19]
+
+    Haaland 79', 90'
+
+MetLife Stadium, East Rutherford
+Attendance: 80,663
+Referee: Ismail Elfath (United States)
+Brazil[23]
+
+Norway[23]
+
+GK	1	Alisson
+RB	13	Danilo Luiz
+CB	4	Marquinhos (c)
+CB	3	Gabriel Magalhães
+LB	16	Douglas Santos
+DM	5	Casemiro
+CM	8	Bruno Guimarães		downward-facing red arrow 79'
+CM	22	Gabriel Martinelli		downward-facing red arrow 67'
+RF	26	Rayan		downward-facing red arrow 67'
+CF	9	Matheus Cunha		downward-facing red arrow 58'
+LF	7	Vinícius Júnior
+Substitutions:
+FW	19	Endrick		upward-facing green arrow 58'
+MF	18	Danilo Santos		upward-facing green arrow 67'
+FW	10	Neymar	Yellow card 90+6'	upward-facing green arrow 67'
+MF	2	Éderson Silva		upward-facing green arrow 79'
+Manager:
+Italy Carlo Ancelotti
+
+
+GK	1	Ørjan Nyland
+RB	26	Julian Ryerson	downward-facing red arrow 63'
+CB	3	Kristoffer Ajer
+CB	17	Torbjørn Heggem
+LB	5	David Møller Wolfe	downward-facing red arrow 90+5'
+DM	8	Sander Berge
+CM	10	Martin Ødegaard (c)
+CM	6	Patrick Berg
+RF	7	Alexander Sørloth	downward-facing red arrow 46'
+CF	9	Erling Haaland
+LF	20	Antonio Nusa	downward-facing red arrow 46'
+Substitutions:
+FW	22	Oscar Bobb	upward-facing green arrow 46'
+FW	21	Andreas Schjelderup	upward-facing green arrow 46'
+MF	14	Fredrik Aursnes	upward-facing green arrow 63'
+DF	4	Leo Østigård	upward-facing green arrow 90+5'
+Manager:
+Ståle Solbakken
+
+Man of the Match:
+Erling Haaland (Norway)[10]
+
+Assistant referees:[23]
+Corey Parker (United States)
+Kyle Atkins (United States)
+Fourth official:
+Saíd Martínez (Honduras)
+Reserve assistant referee:
+Walter López (Honduras)
+Video assistant referee:
+Tatiana Guzmán (Nicaragua)
+Assistant video assistant referee:
+Leodán González (Uruguay)
+Support video assistant referee:
+Carlos del Cerro Grande (Spain)
+Mexico vs England
+Pre-match ceremony between Mexico and England
+
+The teams had previously faced each other nine times, most recently in 2010, a 3–1 win for England in a friendly match. They also met at the 1966 FIFA World Cup, when England, as the host, won 2–0 in the group stage.[24] Additionally, they last encountered each other at Estadio Azteca in a friendly that ended with a 1–0 victory for Mexico in 1985.[25] This was also the first time that England had played at Estadio Azteca since its infamous match against Argentina in the 1986 World Cup, in which England famously conceded Maradona's "hand of God" goal and the "Goal of the Century".
+
+Before the match, it was reported that the game would be moved up to noon due to reports of inclement weather and lightning. However, after protests from both Mexico and England, FIFA reversed the decision and kept the kickoff at the original time.[26][27] An hour before the kickoff, FIFA delayed the match by one hour due to the aforementioned inclement weather.[28]
+
+In the 36th minute, Jude Bellingham scored to put England into the lead with a diving header to the left of the net from just inside the six yard box after a cross from Bukayo Saka from the right. 98 seconds later it was 2–0 when Bellingham scored again with a low side-foot finish from just inside the six yard after a low cross from Harry Kane from the right. In the 42nd minute, Julián Quiñones pulled a goal back when he shot high to the net from eight yards out after the ball broke to him after a free kick from the left.[29]
+
+In the 54th minute, Jarell Quansah was sent off when he dived in with a high challenge on Jesús Gallardo. England was awarded a penalty in the 60th minute when Anthony Gordon was brought down by the diving Mexican goalkeeper Raúl Rangel. Kane scored the penalty with a shot to the left of the net to restore England's two-goal lead.[30] In the 69th minute, Mexico was awarded a penalty when Kane kicked the foot of Brian Gutiérrez in the penalty area. Raúl Jiménez scored with a shot to the left corner, but Mexico was unable to find an equalizer, with 11 minutes added on at the end.[31]
+
+Mexico’s defeat marked the first time it lost a World Cup match at the Azteca and made it the second co-host to be eliminated after Canada. This was also the first time Mexico hosted the tournament without reaching the quarterfinals, failing to match its runs in 1970 and 1986.[32][33] Additionally, this was the final game played in Mexico for the tournament.
+July 5, 2026
+7:00 p.m. UTC−6[B]
+Mexico 	2–3	 England
+
+    Quiñones 42'
+    Jiménez 69' (pen.)
+
+	[Report 20]
+
+    Bellingham 36', 38'
+    Kane 60' (pen.)
+
+Estadio Azteca, Mexico City
+Attendance: 80,824
+Referee: Alireza Faghani (Australia)
+Mexico[35]
+
+England[35]
+
+GK	1	Raúl Rangel
+RB	2	Jorge Sánchez	Yellow card 71'	downward-facing red arrow 79'
+CB	3	César Montes (c)		downward-facing red arrow 46'
+CB	5	Johan Vásquez	Yellow card 90+8'
+LB	23	Jesús Gallardo
+DM	6	Érik Lira
+CM	19	Gilberto Mora		downward-facing red arrow 61'
+CM	7	Luis Romo		downward-facing red arrow 61'
+RF	25	Roberto Alvarado
+CF	9	Raúl Jiménez
+LF	16	Julián Quiñones		downward-facing red arrow 81'
+Substitutions:
+DF	4	Edson Álvarez		upward-facing green arrow 46'
+MF	26	Brian Gutiérrez		upward-facing green arrow 61'
+FW	11	Santiago Giménez		upward-facing green arrow 61'
+MF	8	Álvaro Fidalgo		upward-facing green arrow 79'
+FW	22	Guillermo Martínez		upward-facing green arrow 81'
+Manager:
+Javier Aguirre
+
+
+GK	1	Jordan Pickford
+RB	26	Jarell Quansah	Red card 54'
+CB	2	Ezri Konsa
+CB	6	Marc Guéhi	Yellow card 68'
+LB	3	Nico O'Reilly	Yellow card 72'	downward-facing red arrow 75'
+CM	8	Elliot Anderson		downward-facing red arrow 75'
+CM	4	Declan Rice	Yellow card 1'
+RW	7	Bukayo Saka		downward-facing red arrow 57'
+AM	10	Jude Bellingham
+LW	18	Anthony Gordon
+CF	9	Harry Kane (c)		downward-facing red arrow 90'
+Substitutions:
+DF	5	John Stones		upward-facing green arrow 57'
+DF	15	Dan Burn		upward-facing green arrow 75'
+DF	25	Djed Spence		upward-facing green arrow 75'
+MF	17	Morgan Rogers		upward-facing green arrow 90'
+Other disciplinary actions:
+MF	14	Jordan Henderson	Yellow card 90+8'
+Manager:
+Germany Thomas Tuchel
+
+Man of the Match:
+Jude Bellingham (England)[10]
+
+Assistant referees:[35]
+George Lakrindis (Australia)
+James Lindsay (Australia)
+Fourth official:
+Jalal Jayed (Morocco)
+Reserve assistant referee:
+Zakaria Brinsi (Morocco)
+Video assistant referee:
+Nicolás Gallo (Colombia)
+Assistant video assistant referee:
+Juan Lara [de] (Chile)
+Support video assistant referee:
+Juan Soto (Venezuela)
+Portugal vs Spain
+See also: Portugal–Spain football rivalry
+
+The teams had faced each other in 41 previous matches including at the FIFA World Cup on two previous occasions: their first meeting was a 1–0 round of 16 win for Spain at the 2010 FIFA World Cup and then a 3–3 group stage draw at the 2018 FIFA World Cup. Their latest match was the 2025 UEFA Nations League final in which Portugal won 5–3 on penalties following a 2–2 draw.[36]
+
+In the third minute, Mikel Oyarzabal dragged a shot from the left wide of the right post. In the 41st minute Nuno Mendes hit the crossbar for Portugal after his shot deflected off Pedro Porro.[37] In the 91st minute substitute Mikel Merino received a pass from fellow ‌substitute Ferran Torres on the left of the penalty area before shooting low left-footed to the left corner of the net for the only goal of the match. Portugal's defeat ended Cristiano Ronaldo's World Cup career after he had confirmed earlier that this tournament would be his last.[38]
+
+Following the result, Portugal coach Roberto Martínez announced his resignation with immediate effect.[39] Meanwhile, Portugal striker Cristiano Ronaldo confirmed that this was his last World Cup match ahead of his expected retirement.[40]
+July 6, 2026
+2:00 p.m. UTC−5
+Portugal 	0–1	 Spain
+	[Report 21]
+
+    Merino 90+1'
+
+AT&T Stadium, Arlington
+Attendance: 70,649
+Referee: Anthony Taylor (England)
+Portugal[41]
+
+Spain[41]
+
+GK	1	Diogo Costa
+RB	20	João Cancelo		downward-facing red arrow 71'
+CB	3	Rúben Dias
+CB	13	Renato Veiga	Yellow card 90+3'
+LB	25	Nuno Mendes		downward-facing red arrow 56'
+CM	15	João Neves
+CM	23	Vitinha		downward-facing red arrow 83'
+RW	18	Pedro Neto		downward-facing red arrow 83'
+AM	8	Bruno Fernandes
+LW	11	João Félix		downward-facing red arrow 71'
+CF	7	Cristiano Ronaldo (c)
+Substitutions:
+DF	2	Nélson Semedo		upward-facing green arrow 56'
+FW	17	Rafael Leão		upward-facing green arrow 71'
+DF	5	Diogo Dalot		upward-facing green arrow 71'
+FW	26	Francisco Conceição		upward-facing green arrow 83'
+MF	10	Bernardo Silva	Yellow card 89'	upward-facing green arrow 83'
+Manager:
+Spain Roberto Martínez
+
+
+GK	23	Unai Simón
+RB	12	Pedro Porro
+CB	22	Pau Cubarsí
+CB	14	Aymeric Laporte
+LB	24	Marc Cucurella
+DM	16	Rodri (c)
+CM	10	Dani Olmo		downward-facing red arrow 85'
+CM	20	Pedri		downward-facing red arrow 85'
+RF	19	Lamine Yamal
+CF	21	Mikel Oyarzabal		downward-facing red arrow 90+7'
+LF	15	Álex Baena		downward-facing red arrow 75'
+Substitutions:
+FW	7	Ferran Torres	Yellow card 90+8'	upward-facing green arrow 75'
+MF	6	Mikel Merino		upward-facing green arrow 85'
+MF	8	Fabián Ruiz		upward-facing green arrow 85'
+FW	26	Borja Iglesias		upward-facing green arrow 90+7'
+Manager:
+Luis de la Fuente
+
+Man of the Match:
+Rodri (Spain)[10]
+
+Assistant referees:[41]
+Gary Beswick (England)
+Adam Nunn (England)
+Fourth official:
+Felix Zwayer (Germany)
+Reserve assistant referee:
+Robert Kempter [de] (Germany)
+Video assistant referee:
+Bastian Dankert (Germany)
+Assistant video assistant referee:
+Antonio García (Uruguay)
+Support video assistant referee:
+Marco Di Bello (Italy)
+United States vs Belgium
+See also: 2026 Trump–FIFA red card controversy
+
+The teams had previously faced each other seven times, most recently on March 28, a 5–2 win for Belgium in a friendly. They had also met twice in the FIFA World Cup: a 3–0 group stage win for the United States at the first World Cup (their only win ever against Belgium) and a 2–1 round of 16 win for Belgium in 2014.[42] The reversal of the suspension for Folarin Balogun, who received a red card in his previous match against Bosnia and Herzegovina, has drawn condemnation of political manipulation from UEFA[43] and the Royal Belgian Football Association, whose appeal was overturned.[44]
+
+The United States was the final co-host to be eliminated after Canada fell to Morocco and Mexico lost to England, with all three exits occurring in the Round of 16. Folarin Balogun's participation proved insignificant, as he and the rest of the U.S. team struggled for most of the match while Belgium easily breached the host team's defense.[45][46][47]
+
+The United States registered their largest margin of defeat in a World Cup match since they lost 3–0 to the Czech Republic in 2006, and their worst goals-against performance in a World Cup match since a 5–1 defeat to Czechoslovakia in the 1990 World Cup.[48]
+July 6, 2026
+5:00 p.m. UTC−7
+United States 	1–4	 Belgium
+
+    Tillman 31'
+
+	[Report 22]
+
+    De Ketelaere 9', 33'
+    Vanaken 57'
+    Lukaku 90+3'
+
+Lumen Field, Seattle
+Attendance: 66,925
+Referee: Adham Makhadmeh (Jordan)
+United States[49]
+
+Belgium[49]
+
+GK	24	Matt Freese
+CB	16	Alex Freeman
+CB	3	Chris Richards
+CB	13	Tim Ream (c)
+RM	2	Sergiño Dest		downward-facing red arrow 46'
+CM	17	Malik Tillman	Yellow card 69'
+CM	4	Tyler Adams		downward-facing red arrow 72'
+CM	8	Weston McKennie	Yellow card 35'
+LM	5	Antonee Robinson		downward-facing red arrow 90+2'
+CF	10	Christian Pulisic		downward-facing red arrow 59'
+CF	20	Folarin Balogun		downward-facing red arrow 90+2'
+Substitutions:
+MF	7	Giovanni Reyna		upward-facing green arrow 46'
+MF	14	Sebastian Berhalter		upward-facing green arrow 59'
+FW	9	Ricardo Pepi		upward-facing green arrow 72'
+FW	19	Haji Wright		upward-facing green arrow 90+2'
+DF	18	Max Arfsten		upward-facing green arrow 90+2'
+Manager:
+Argentina Mauricio Pochettino
+
+
+GK	1	Thibaut Courtois
+RB	21	Timothy Castagne
+CB	25	Nathan Ngoy
+CB	4	Brandon Mechele
+LB	5	Maxim De Cuyper
+CM	24	Amadou Onana	downward-facing red arrow 21'
+CM	23	Nicolas Raskin	downward-facing red arrow 89'
+RW	14	Dodi Lukébakio	downward-facing red arrow 67'
+AM	8	Youri Tielemans (c)
+LW	10	Leandro Trossard	downward-facing red arrow 89'
+CF	17	Charles De Ketelaere	downward-facing red arrow 67'
+Substitutions:
+MF	20	Hans Vanaken	upward-facing green arrow 21'
+FW	11	Jérémy Doku	upward-facing green arrow 67'
+FW	9	Romelu Lukaku	upward-facing green arrow 67'
+MF	22	Alexis Saelemaekers	upward-facing green arrow 89'
+MF	6	Axel Witsel	upward-facing green arrow 89'
+Manager:
+France Rudi Garcia
+
+Man of the Match:
+Charles De Ketelaere (Belgium)[10]
+
+Assistant referees:[49]
+Mohammad Al-Kalaf (Jordan)
+Ahmad Al-Roalle (Jordan)
+Fourth official:
+Pierre Atcho (Gabon)
+Reserve assistant referee:
+Boris Ditsoga (Gabon)
+Video assistant referee:
+Khamis Al-Marri (Qatar)
+Assistant video assistant referee:
+Nicolás Gallo (Colombia)
+Support video assistant referee:
+Hernán Mastrángelo (Argentina)
+Argentina vs Egypt
+Mostafa Shobeir saving the Lionel Messi penalty during the match.
+
+Argentina had faced Egypt twice previously, a 6–0 victory in the semifinals of the 1928 Summer Olympics, and a 2–0 friendly win in 2008.[50][51]
+
+In the 15th minute Egypt went in front when Yasser Ibrahim headed into the right corner of the net from six yards out after a cross from the right by Marwan Attia. Six minutes later, Argentina was awarded a penalty when Haissem Hassan tripped Nicolás Tagliafico on the right of the penalty area. Lionel Messi took the penalty, which was saved by Egyptian goalkeeper Mostafa Shobeir down low to his left.[52]
+
+A second goal for Egypt, scored by Mostafa Ziko in the 60th minute after a counter-attack was ruled out after a VAR review brought it back for a foul on Lisandro Martínez at the start of the move. In the 67th minute Ziko made it 2–0 when he finished from six yards out after a low cross from Haissem Hassan from the right.[53]
+
+In the 79th minute Argentina pulled a goal back when Cristian Romero headed powerfully to the right of the net from six yards out after a cross from the right from Messi. In the 83rd minute, Messi made it 2–2 when he half-volleyed the ball high in off the underside of the crossbar from twelve yards out on the right of the penalty area. In the 93rd minute, Argentina broke and Lautaro Martínez crossed from the right for Enzo Fernández to head into the right corner of the net from seven yards out to win the game 3–2 for Argentina. The winning goal was the 3,000th goal in tournament history.[54]
+July 7, 2026
+12:00 p.m. UTC−4
+Argentina 	3–2	 Egypt
+
+    Romero 79'
+    Messi 83'
+    Fernández 90+2'
+
+	[Report 23]
+
+    Ibrahim 15'
+    Ziko 67'
+
+Mercedes-Benz Stadium, Atlanta
+Attendance: 68,239
+Referee: François Letexier (France)
+Argentina[55]
+
+Egypt[55]
+
+GK	23	Emiliano Martínez
+RB	26	Nahuel Molina	downward-facing red arrow 73'
+CB	13	Cristian Romero	downward-facing red arrow 90+5'
+CB	6	Lisandro Martínez
+LB	3	Nicolás Tagliafico	downward-facing red arrow 66'
+DM	5	Leandro Paredes
+CM	7	Rodrigo De Paul	downward-facing red arrow 66'
+CM	24	Enzo Fernández
+CM	20	Alexis Mac Allister
+CF	10	Lionel Messi (c)
+CF	9	Julián Alvarez	downward-facing red arrow 90+5'
+Substitutions:
+FW	22	Lautaro Martínez	upward-facing green arrow 66'
+MF	15	Nicolás González	upward-facing green arrow 66'
+DF	4	Gonzalo Montiel	upward-facing green arrow 73'
+DF	19	Nicolás Otamendi	upward-facing green arrow 90+5'
+DF	25	Facundo Medina	upward-facing green arrow 90+5'
+Manager:
+Lionel Scaloni
+
+
+GK	23	Mostafa Shobeir	Yellow card 90+3'
+RB	3	Mohamed Hany
+CB	5	Ramy Rabia
+CB	2	Yasser Ibrahim
+LB	15	Karim Hafez
+CM	17	Mohanad Lasheen		downward-facing red arrow 90+6'
+CM	19	Marwan Attia	Yellow card 90+8'
+RW	12	Haissem Hassan	Yellow card FT	downward-facing red arrow 73'
+AM	10	Mohamed Salah (c)
+LW	8	Emam Ashour		downward-facing red arrow 46'
+CF	11	Mostafa Ziko		downward-facing red arrow 80'
+Substitutions:
+MF	14	Hamdy Fathy	Yellow card 90+4'	upward-facing green arrow 46'
+FW	7	Trézéguet		upward-facing green arrow 73'
+FW	22	Omar Marmoush		upward-facing green arrow 80'
+FW	25	Zizo		upward-facing green arrow 90+6'
+Other disciplinary actions:
+TS	—	Saafan El-Sagheer	Yellow card 21' Red card 90+4'
+Manager:
+Hossam Hassan	Yellow card 90+9'
+
+Man of the Match:
+Lionel Messi (Argentina)[10]
+
+Assistant referees:[55]
+Cyril Mugnier (France)
+Mehdi Rahmouni (France)
+Fourth official:
+Espen Eskås (Norway)
+Reserve assistant referee:
+Isaak Bashevkin (Norway)
+Video assistant referee:
+Jérôme Brisard (France)
+Assistant video assistant referee:
+Willy Delajod (France)
+Support video assistant referee:
+Bram Van Driessche [nl] (Belgium)
+Switzerland vs Colombia
+
+The teams had met four times prior, including Colombia's 2–0 group stage victory at the 1994 FIFA World Cup. Their most recent meeting was also won by Colombia, a 3–1 friendly in 2007.[56]
+
+With this game, Colombia became the only team in the 2026 World Cup to play matches in all three host countries—Canada, Mexico, and the United States.[57]
+
+The game finished 0–0 after extra time and went to a penalty shoot-out. Colombia's Davinson Sánchez missed his penalty when he hit the underside of the bar with the ball bouncing back out, Switzerland's Manuel Akanji also missed when he kicked high over the bar. Switzerland goalkeeper Gregor Kobel saved down to his right from Cucho Hernández, with Rubén Vargas scoring the winning penalty with a shot low to the left, sending the goalkeeper the wrong way.[58]
+
+Switzerland reached the quarterfinals for the fourth time (after 1934, 1938, and 1954), their first in 72 years (since 1954, when it hosted the tournament).[59] Colombia's elimination from the tournament confirmed that Argentina became the sole representative from the Americas to proceed to the quarterfinals following their win against Egypt.[60]
+
+This was the final game of the tournament played in Canada, as the remaining knockout matches—the quarterfinals, semifinals, third-place playoff, and final—were played entirely in the United States.
+July 7, 2026
+1:00 p.m. UTC−7
+Switzerland 	0–0 (a.e.t.)	 Colombia
+	[Report 24]
+Penalties
+
+    Xhaka football with check mark
+    Amdouni football with check mark
+    Akanji football with red X
+    Itten football with check mark
+    Vargas football with check mark
+
+	4–3
+
+    football with check mark Quintero
+    football with red X Sánchez
+    football with check mark Campaz
+    football with red X Hernández
+    football with check mark Díaz
+
+BC Place, Vancouver
+Attendance: 52,497
+Referee: Iván Barton (El Salvador)
+Switzerland[61]
+
+Colombia[61]
+
+GK	1	Gregor Kobel
+RB	6	Denis Zakaria	Yellow card 59'	downward-facing red arrow 87'
+CB	5	Manuel Akanji
+CB	4	Nico Elvedi
+LB	13	Ricardo Rodriguez		downward-facing red arrow 71'
+DM	10	Granit Xhaka (c)	Yellow card 51'
+CM	8	Remo Freuler
+CM	14	Ardon Jashari		downward-facing red arrow 46'
+RF	22	Fabian Rieder		downward-facing red arrow 103'
+CF	7	Breel Embolo		downward-facing red arrow 87'
+LF	11	Dan Ndoye		downward-facing red arrow 90+1'
+Substitutions:
+MF	15	Djibril Sow		upward-facing green arrow 46'
+DF	2	Miro Muheim	Yellow card 105'	upward-facing green arrow 71'
+FW	26	Cedric Itten		upward-facing green arrow 87'
+DF	3	Silvan Widmer		upward-facing green arrow 87'
+FW	17	Rubén Vargas		upward-facing green arrow 90+1'
+FW	23	Zeki Amdouni		upward-facing green arrow 103'
+Manager:
+Murat Yakin
+
+
+GK	12	Camilo Vargas
+RB	2	Daniel Muñoz
+CB	23	Davinson Sánchez	Yellow card 94'
+CB	3	Jhon Lucumí		downward-facing red arrow 118'
+LB	17	Johan Mojica
+DM	16	Jefferson Lerma		downward-facing red arrow 82'
+CM	11	Jhon Arias		downward-facing red arrow 66'
+CM	14	Gustavo Puerta
+RF	10	James Rodríguez (c)		downward-facing red arrow 66'
+CF	25	Luis Suárez	Yellow card 60'	downward-facing red arrow 82'
+LF	7	Luis Díaz
+Substitutions:
+MF	20	Juan Fernando Quintero		upward-facing green arrow 66'
+FW	21	Jaminton Campaz		upward-facing green arrow 66'
+MF	6	Richard Ríos		upward-facing green arrow 82'
+FW	19	Cucho Hernández		upward-facing green arrow 82'
+DF	13	Yerry Mina		upward-facing green arrow 118'
+Other disciplinary actions:
+TS	—	Luis Amaranto Perea	Yellow card 95'
+Manager:
+Argentina Néstor Lorenzo
+
+
+Man of the Match:
+Gregor Kobel (Switzerland)[10]
+
+Assistant referees:[61]
+David Morán (El Salvador)
+Henry Pupiro (Nicaragua)
+Fourth official:
+Katia Itzel García (Mexico)
+Reserve assistant referee:
+Sandra Ramírez (Mexico)
+Video assistant referee:
+Guillermo Pacheco (Mexico)
+Assistant video assistant referee:
+Armando Villarreal (United States)
+Support video assistant referee:
+Ivan Bebek (Croatia)
+Quarterfinals
+France vs Morocco
+
+The two teams had met six times before, with France winning four matches. Their most recent meeting took place in the semifinals of the last World Cup, when France won 2–0.[62]
+
+In the 28th minute, France was awarded a penalty when Kylian Mbappé was fouled inside the penalty area on the left by Noussair Mazraoui. After a delay of over three minutes, Mbappé took the penalty and shot low to the right which was saved by Moroccan goalkeeper Yassine Bounou. Désiré Doué also had a low shot to the left from inside the penalty area saved by Bounou.[63] In first-half stoppage time Lucas Digne's hit a long range swerving shot from the left off the top of the crossbar and go over.[64]
+
+In the 60th minute, France went in front when Mbappé received the ball from Doué on the left before curling a shot from just inside the penalty area into the top right corner of the net, it was his eighth goal of the World Cup. Six minutes later it was 2–0 when Ousmane Dembélé scored with a low shot from just outside the penalty area to the right corner which Bounou got a hand to but couldn't keep out. Morocco was missing injured forward Ismael Saibari and failed to get a shot on target until the 84th minute.[65]
+July 9, 2026
+4:00 p.m. UTC−4
+France 	2–0	 Morocco
+
+    Mbappé 60'
+    Dembélé 66'
+
+	[Report 25]
+Gillette Stadium, Foxborough
+Attendance: 63,811
+Referee: Facundo Tello (Argentina)
+France[66]
+
+Morocco[66]
+
+GK	16	Mike Maignan
+RB	5	Jules Koundé	downward-facing red arrow 87'
+CB	4	Dayot Upamecano
+CB	17	William Saliba
+LB	3	Lucas Digne
+CM	6	Manu Koné	downward-facing red arrow 71'
+CM	14	Adrien Rabiot
+RW	7	Ousmane Dembélé
+AM	11	Michael Olise
+LW	20	Désiré Doué	downward-facing red arrow 77'
+CF	10	Kylian Mbappé (c)	downward-facing red arrow 77'
+Substitutions:
+MF	18	Warren Zaïre-Emery	upward-facing green arrow 71'
+FW	22	Jean-Philippe Mateta	upward-facing green arrow 77'
+FW	12	Bradley Barcola	upward-facing green arrow 77'
+DF	2	Malo Gusto	upward-facing green arrow 87'
+Manager:
+Didier Deschamps
+
+
+GK	1	Yassine Bounou
+RB	2	Achraf Hakimi (c)
+CB	14	Issa Diop	Yellow card 63'
+CB	3	Noussair Mazraoui
+LB	26	Anass Salah-Eddine		downward-facing red arrow 74'
+CM	6	Ayyoub Bouaddi		downward-facing red arrow 62'
+CM	24	Neil El Aynaoui
+RW	10	Brahim Díaz		downward-facing red arrow 74'
+AM	8	Azzedine Ounahi
+LW	7	Chemsdine Talbi		downward-facing red arrow 85'
+CF	23	Bilal El Khannouss		downward-facing red arrow 62'
+Substitutions:
+MF	4	Sofyan Amrabat		upward-facing green arrow 62'
+FW	9	Soufiane Rahimi		upward-facing green arrow 62'
+DF	13	Zakaria El Ouahdi		upward-facing green arrow 74'
+MF	16	Gessime Yassine		upward-facing green arrow 74'
+FW	17	Amine Sbaï		upward-facing green arrow 85'
+Manager:
+Mohamed Ouahbi
+
+Man of the Match:
+Kylian Mbappé (France)[10]
+
+Assistant referees:[66]
+Juan Pablo Belatti (Argentina)
+Gabriel Chade (Argentina)
+Fourth official:
+Darío Herrera (Argentina)
+Reserve assistant referee:
+Cristian Navarro (Argentina)
+Video assistant referee:
+Hernán Mastrángelo (Argentina)
+Assistant video assistant referee:
+Leodán González (Uruguay)
+Support video assistant referee:
+Tatiana Guzmán (Nicaragua)
+Spain vs Belgium
+SoFi Stadium during the match between Spain and Belgium.
+
+The teams had previously met 23 times, including twice in the World Cup: a 1–1 quarterfinal draw (Belgium won 5–4 on penalties) in 1986 and a 2–1 group stage win for Spain in 1990. Their most recent meeting took place in 2016, when Spain won 2–0 in a friendly match.[67][68]
+
+This was the only match in the entire tournament where Spain conceded a goal.[69]
+July 10, 2026
+12:00 p.m. UTC−7
+Spain 	2–1	 Belgium
+
+    Fabián 30'
+    Merino 88'
+
+	[Report 26]
+
+    De Ketelaere 41'
+
+SoFi Stadium, Inglewood
+Attendance: 70,492
+Referee: Michael Oliver (England)
+Spain[70]
+
+Belgium[70]
+
+GK	23	Unai Simón
+RB	12	Pedro Porro
+CB	22	Pau Cubarsí	Yellow card 43'
+CB	14	Aymeric Laporte	Yellow card 90+3'
+LB	24	Marc Cucurella
+CM	16	Rodri (c)
+CM	8	Fabián Ruiz		downward-facing red arrow 55'
+RW	19	Lamine Yamal
+AM	10	Dani Olmo		downward-facing red arrow 86'
+LW	15	Álex Baena		downward-facing red arrow 55'
+CF	21	Mikel Oyarzabal		downward-facing red arrow 79'
+Substitutions:
+FW	7	Ferran Torres		upward-facing green arrow 55'
+MF	20	Pedri		upward-facing green arrow 55'
+FW	17	Nico Williams		upward-facing green arrow 79'
+MF	6	Mikel Merino		upward-facing green arrow 86'
+Manager:
+Luis de la Fuente
+
+
+GK	1	Thibaut Courtois		downward-facing red arrow 71'
+RB	21	Timothy Castagne
+CB	25	Nathan Ngoy
+CB	4	Brandon Mechele
+LB	5	Maxim De Cuyper		downward-facing red arrow 60'
+CM	20	Hans Vanaken		downward-facing red arrow 60'
+CM	23	Nicolas Raskin
+RW	10	Leandro Trossard		downward-facing red arrow 60'
+AM	7	Kevin De Bruyne (c)	Yellow card 85'	downward-facing red arrow 86'
+LW	11	Jérémy Doku
+CF	17	Charles De Ketelaere
+Substitutions:
+MF	6	Axel Witsel	Yellow card 90+5'	upward-facing green arrow 60'
+DF	18	Joaquin Seys		upward-facing green arrow 60'
+FW	9	Romelu Lukaku		upward-facing green arrow 60'
+GK	12	Senne Lammens		upward-facing green arrow 71'
+MF	22	Alexis Saelemaekers		upward-facing green arrow 86'
+Manager:
+France Rudi Garcia
+
+Man of the Match:
+Lamine Yamal (Spain)[10]
+
+Assistant referees:[70]
+Stuart Burt (England)
+James Mainwaring (England)
+Fourth official:
+Ramon Abatti (Brazil)
+Reserve assistant referee:
+Rafael Alves (Brazil)
+Video assistant referee:
+Jarred Gillett (England)
+Assistant video assistant referee:
+Ivan Bebek (Croatia)
+Support video assistant referee:
+Joe Dickerson (United States)
+Norway vs England
+
+The teams had previously faced each other 12 times, most recently in 2014, a 1–0 win for England in a friendly match.[71]
+
+Norway went ahead after 36 minutes when Andreas Schjelderup's left-footed strike from just inside the penalty area went over England goalkeeper Jordan Pickford. England restored parity in first-half stoppage time when Jude Bellingham took a pass from Anthony Gordon and struck past Norway goalkeeper Ørjan Nyland.[72]
+
+Declan Rice, who had been struggling with illness and injury leading into the fixture, was substituted at halftime, as well as Noni Madueke, being replaced with Eberechi Eze and Bukayo Saka.[72]
+
+In the second half, a goal by Norway midfielder Torbjørn Heggem was ruled out due to Erling Haaland fouling midfielder Elliot Anderson, and David Møller Wolfe's header struck the bar.[72]
+
+In extra time, Bellingham scored the second goal for England when Nyland parried a shot towards him from substitute Morgan Rogers.[72] The Norwegians claimed the ball struck one of the Spidercam wires in the build-up to Bellingham's equalizing goal, but Snickometer ruled there was no contact. Had the decision been made that the ball struck the wire, the goal would have been ruled out and play restarted with a dropped ball.[73]
+
+Jude Bellingham's two goals meant this England team was the first in FIFA World Cup history to have two players score six or more goals in a tournament, with Harry Kane having reached six in the previous match against Mexico. Also, Bellingham's six goals in the tournament, none of which were penalties, is the joint-most non-penalty goals by an England player in a major men's tournament, along with Gary Lineker in the 1986 edition of the tournament.[74]
+July 11, 2026
+5:00 p.m. UTC−4
+Norway 	1–2 (a.e.t.)	 England
+
+    Schjelderup 36'
+
+	[Report 27]
+
+    Bellingham 45+2', 93'
+
+Hard Rock Stadium, Miami Gardens
+Attendance: 64,478
+Referee: Clément Turpin (France)
+Norway[75]
+
+England[75]
+
+GK	1	Ørjan Nyland
+RB	26	Julian Ryerson		downward-facing red arrow 60'
+CB	3	Kristoffer Ajer	Yellow card 117'
+CB	17	Torbjørn Heggem		downward-facing red arrow 91'
+LB	5	David Møller Wolfe		downward-facing red arrow 90'
+DM	8	Sander Berge
+CM	10	Martin Ødegaard (c)
+CM	6	Patrick Berg
+RF	7	Alexander Sørloth		downward-facing red arrow 67'
+CF	9	Erling Haaland		downward-facing red arrow 106'
+LF	21	Andreas Schjelderup		downward-facing red arrow 67'
+Substitutions:
+MF	14	Fredrik Aursnes		upward-facing green arrow 60'
+MF	22	Oscar Bobb		upward-facing green arrow 67'
+FW	20	Antonio Nusa		upward-facing green arrow 67'
+DF	16	Marcus Holmgren Pedersen		upward-facing green arrow 90'
+DF	4	Leo Østigård		upward-facing green arrow 91'
+FW	11	Jørgen Strand Larsen		upward-facing green arrow 106'
+Manager:
+Ståle Solbakken
+
+
+GK	1	Jordan Pickford
+RB	2	Ezri Konsa		downward-facing red arrow 89'
+CB	5	John Stones
+CB	6	Marc Guéhi
+LB	3	Nico O'Reilly		downward-facing red arrow 86'
+CM	8	Elliot Anderson
+CM	4	Declan Rice		downward-facing red arrow 46'
+RW	20	Noni Madueke		downward-facing red arrow 46'
+AM	10	Jude Bellingham		downward-facing red arrow 111'
+LW	18	Anthony Gordon		downward-facing red arrow 71'
+CF	9	Harry Kane (c)
+Substitutions:
+FW	7	Bukayo Saka		upward-facing green arrow 46'
+MF	21	Eberechi Eze		upward-facing green arrow 46'
+DF	24	Reece James		upward-facing green arrow 71'
+DF	25	Djed Spence		upward-facing green arrow 86'
+MF	17	Morgan Rogers		upward-facing green arrow 89'
+DF	15	Dan Burn		upward-facing green arrow 111'
+Manager:
+Germany Thomas Tuchel
+
+Man of the Match:
+Jude Bellingham (England)[10]
+
+Assistant referees:[75]
+Nicolas Danos (France)
+Benjamin Pagès (France)
+Fourth official:
+Alejandro Hernández Hernández (Spain)
+Reserve assistant referee:
+José Enrique Naranjo Pérez (Spain)
+Video assistant referee:
+Jérôme Brisard (France)
+Assistant video assistant referee:
+Armando Villarreal (United States)
+Support video assistant referee:
+Carlos del Cerro Grande (Spain)
+Argentina vs Switzerland
+Pre-match ceremony between Argentina and Switzerland.
+
+This was Switzerland's first World Cup quarterfinal since the 1954 edition of the tournament.[76]
+
+Argentina had never lost to Switzerland in their seven previous encounters, winning five of those matches. Their first meeting took place at the 1966 FIFA World Cup, when Argentina won 2–0 in the group stage and their latest match was also at the World Cup, a round of 16 1–0 win (after extra time) in 2014.[77]
+
+Alexis Mac Allister opened the scoring for Argentina after 10 minutes when he scored off a corner kick taken from Lionel Messi. Half way through the second half, shortly after Dan Ndoye scored the equalizer for Switzerland, Leandro Paredes was shown a yellow card for a tackle on Breel Embolo–however, VAR revealed Embolo falling before Paredes made any contact. Since Embolo had already received a booking, he was sent off. It was the second time a yellow card had been overturned at the tournament due to the "mistaken identity" protocol.[76]
+
+The match ended Lionel Messi's record run of scoring in nine consecutive FIFA World Cup matches, stretching back to the Round of 16 match against Australia in 2022.[76]
+July 11, 2026
+8:00 p.m. UTC−5
+Argentina 	3–1 (a.e.t.)	 Switzerland
+
+    Mac Allister 10'
+    Alvarez 112'
+    La. Martínez 120+1'
+
+	[Report 28]
+
+    Ndoye 67'
+
+Arrowhead Stadium, Kansas City
+Attendance: 69,045
+Referee: João Pinheiro (Portugal)
+Argentina[78]
+
+Switzerland[78]
+
+GK	23	Emiliano Martínez
+RB	26	Nahuel Molina		downward-facing red arrow 85'
+CB	13	Cristian Romero		downward-facing red arrow 106'
+CB	6	Lisandro Martínez
+LB	3	Nicolás Tagliafico		downward-facing red arrow 78'
+DM	5	Leandro Paredes		downward-facing red arrow 110'
+CM	7	Rodrigo De Paul		downward-facing red arrow 85'
+CM	24	Enzo Fernández		downward-facing red arrow 91'
+CM	20	Alexis Mac Allister
+CF	10	Lionel Messi (c)
+CF	9	Julián Alvarez
+Substitutions:
+MF	15	Nicolás González		upward-facing green arrow 78'
+DF	4	Gonzalo Montiel		upward-facing green arrow 85'
+FW	22	Lautaro Martínez	Yellow card 98'	upward-facing green arrow 85'
+FW	16	Thiago Almada	Yellow card 97'	upward-facing green arrow 91'
+DF	19	Nicolás Otamendi		upward-facing green arrow 106'
+FW	21	José Manuel López	Yellow card 114'	upward-facing green arrow 110'
+Manager:
+Lionel Scaloni
+
+
+GK	1	Gregor Kobel
+RB	6	Denis Zakaria		downward-facing red arrow 96'
+CB	4	Nico Elvedi
+CB	5	Manuel Akanji
+LB	13	Ricardo Rodriguez		downward-facing red arrow 90+5'
+CM	8	Remo Freuler		downward-facing red arrow 115'
+CM	10	Granit Xhaka (c)
+RW	15	Djibril Sow		downward-facing red arrow 86'
+AM	22	Fabian Rieder		downward-facing red arrow 86'
+LW	11	Dan Ndoye		downward-facing red arrow 86'
+CF	7	Breel Embolo	Yellow card 44' Yellow-red card 72'
+Substitutions:
+DF	3	Silvan Widmer		upward-facing green arrow 86'
+FW	23	Zeki Amdouni		upward-facing green arrow 86'
+DF	2	Miro Muheim		upward-facing green arrow 86'
+DF	18	Eray Cömert		upward-facing green arrow 90+5'
+MF	14	Ardon Jashari		upward-facing green arrow 96'
+FW	17	Rubén Vargas		upward-facing green arrow 115'
+Manager:
+Murat Yakin
+
+Man of the Match:
+Julián Alvarez (Argentina)[10]
+
+Assistant referees:[78]
+Bruno Jesus (Portugal)
+Luciano Maia (Portugal)
+Fourth official:
+Drew Fischer (Canada)
+Reserve assistant referee:
+Micheal Barwegen (Canada)
+Video assistant referee:
+Guillermo Pacheco (Mexico)
+Assistant video assistant referee:
+Juan Lara [de] (Chile)
+Support video assistant referee:
+Marco Di Bello (Italy)
+Semifinals
+
+This is the first time in tournament history that the top four teams in the FIFA Men's World Ranking (as of June 11, 2026) have all qualified for the World Cup semifinals.[79] It's also only the third time in tournament history in which all four semifinalists are previous champions (along with the 1970 and 1990 editions).
+France vs Spain
+See also: France–Spain football rivalry
+During the match between France and Spain.
+
+France and Spain had faced each other in 38 previous matches since 1922, including the UEFA Euro 1984 final (when host France won 2–0) and a 3–1 round of 16 win for France at the 2006 FIFA World Cup. Their latest encounter in a major tournament was at the UEFA Euro 2024 semifinals, won 2–1 by Spain.[80]
+
+In the 22nd minute, Spain was awarded a penalty when Lucas Digne kicked Lamine Yamal with his swinging left leg when trying to clear the ball. Mikel Oyarzabal scored the penalty with a powerful shot to the right of the net to make it 1–0. In the 58th minute it was 2–0 when Pedro Porro played a one-two with Dani Olmo on the edge of the penalty area before a side-foot finish with his right foot to the right corner of the net from the right of the penalty area.[81] The game finished 2–0 and Spain progressed to its second World Cup final.[82]
+July 14, 2026
+2:00 p.m. UTC−5
+France 	0–2	 Spain
+	[Report 29]
+
+    Oyarzabal 22' (pen.)
+    Porro 58'
+
+AT&T Stadium, Arlington
+Attendance: 70,176
+Referee: Iván Barton (El Salvador)
+France[83]
+
+Spain[83]
+
+GK	16	Mike Maignan
+RB	5	Jules Koundé
+CB	4	Dayot Upamecano
+CB	17	William Saliba		downward-facing red arrow 30'
+LB	3	Lucas Digne		downward-facing red arrow 72'
+CM	8	Aurélien Tchouaméni
+CM	14	Adrien Rabiot	Yellow card 8'	downward-facing red arrow 46'
+RW	7	Ousmane Dembélé
+AM	11	Michael Olise		downward-facing red arrow 72'
+LW	12	Bradley Barcola		downward-facing red arrow 57'
+CF	10	Kylian Mbappé (c)	Yellow card 86'
+Substitutions:
+DF	26	Maxence Lacroix		upward-facing green arrow 30'
+MF	6	Manu Koné		upward-facing green arrow 46'
+FW	20	Désiré Doué		upward-facing green arrow 57'
+MF	24	Rayan Cherki		upward-facing green arrow 72'
+DF	19	Théo Hernandez		upward-facing green arrow 72'
+Manager:
+Didier Deschamps
+
+
+GK	23	Unai Simón
+RB	12	Pedro Porro		downward-facing red arrow 83'
+CB	22	Pau Cubarsí
+CB	14	Aymeric Laporte
+LB	24	Marc Cucurella	Yellow card 31'
+DM	16	Rodri (c)
+CM	10	Dani Olmo		downward-facing red arrow 77'
+CM	8	Fabián Ruiz		downward-facing red arrow 77'
+RF	19	Lamine Yamal
+CF	21	Mikel Oyarzabal		downward-facing red arrow 74'
+LF	15	Álex Baena		downward-facing red arrow 83'
+Substitutions:
+FW	7	Ferran Torres		upward-facing green arrow 74'
+MF	6	Mikel Merino		upward-facing green arrow 77'
+MF	20	Pedri		upward-facing green arrow 77'
+FW	17	Nico Williams		upward-facing green arrow 83'
+DF	5	Marcos Llorente		upward-facing green arrow 83'
+Manager:
+Luis de la Fuente
+
+Man of the Match:
+Pedro Porro (Spain)[10]
+
+Assistant referees:[83]
+David Morán (El Salvador)
+Henry Pupiro (Nicaragua)
+Fourth official:
+Glenn Nyberg (Sweden)
+Reserve assistant referee:
+Mahbod Beigi (Sweden)
+Video assistant referee:
+Tomasz Kwiatkowski (Poland)
+Assistant video assistant referee:
+Dennis Higler (Netherlands)
+Support video assistant referee:
+Guillermo Pacheco (Mexico)
+England vs Argentina
+See also: Argentina–England football rivalry
+
+The teams had faced each other in 14 previous matches since 1951, with five of those encounters taking place at the World Cup: a 3–1 group stage win for England in 1962, a 1–0 quarterfinal win for England (as host) in 1966, a 2–1 quarterfinal win for Argentina in 1986 (a match famous for Diego Maradona's "hand of God" goal and the "Goal of the Century"), a 2–2 round of 16 draw (Argentina won 4–3 on penalties) in 1998, and a 1–0 group stage win for England in 2002. Their latest match took place in 2005, a 3–2 win for England in a friendly match.[84]
+
+After a goalless first half, Anthony Gordon put England into the lead in the 55th minute when he finished to the left of the net with his right foot from six yards out after a low cross in by Morgan Rogers from the right. As England looked to hold on to its lead, it went more defensive and switched to a back five. Argentina created chances after that with Jordan Pickford saving down low on the line from a close-range header by Nicolás González.[85] Alexis Mac Allister then saw his diving header from close range strike the left-side post. In the 85th minute, Enzo Fernández received a pass from Lionel Messi just outside the penalty area before shooting right-footed to the left corner of the net to make it 1–1.[86][87]
+
+In the 92nd minute, Mac Allister saw his low shot from the left hit the right hand post before coming back to Messi, who crossed from the right for Lautaro Martínez to head into the left corner from three yards out to give Argentina a 2–1 lead. Argentina saw out the remainder of the added time to advance to the final against Spain for the second consecutive time.[88] England's defeat ended its hopes of reaching the final and extended its period without a championship to 15 consecutive tournament appearances since 1966.[89] However, England progressed to the third-place playoff against France, marking its first appearance in the bronze-medal match since 2018.
+
+England manager Thomas Tuchel was widely criticized after the match for going too defensive after England took a 1–0 lead with over 30 minutes remaining. Between England scoring and Martínez's winning goal, England had just 12% possession.[90] After the defeat, Tuchel remarked that he fully intended to stay on as England manager, and proceeded to blame the country's "football DNA" for its World Cup exit.[91]
+
+After the match, some Argentine players displayed a banner that read "Las Malvinas son argentinas" ("The Falkland Islands are Argentinian"), in reference to the territory dispute between Argentina and the UK, and later left it on the pitch, in apparent contravention of FIFA rules.[92] FIFA's Stadium Code of Conduct prohibits banners and related paraphernalia that are of a political or discriminatory nature inside stadiums,[93] and the British government immediately urged FIFA to investigate the incident.[94] In a statement after the game, FIFA said: "As is standard procedure, FIFA's independent Disciplinary Committee is currently assessing the match reports and considering the relevant circumstances before deciding on potential further steps based on the FIFA Disciplinary Code."[94] The Argentine Football Association were later fined $321,000 (£235,000) for the incident, of which only $100,000 (£89,000) was an immediate direct fine to FIFA.[95]
+July 15, 2026
+3:00 p.m. UTC−4
+England 	1–2	 Argentina
+
+    Gordon 55'
+
+	[Report 30]
+
+    Fernández 85'
+    La. Martínez 90+2'
+
+Mercedes-Benz Stadium, Atlanta
+Attendance: 68,239
+Referee: Ismail Elfath (United States)
+England[96]
+
+Argentina[96]
+
+GK	1	Jordan Pickford
+RB	24	Reece James		downward-facing red arrow 82'
+CB	5	John Stones		downward-facing red arrow 90+6'
+CB	6	Marc Guéhi
+LB	25	Djed Spence		downward-facing red arrow 90+6'
+CM	4	Declan Rice		downward-facing red arrow 82'
+CM	8	Elliot Anderson	Yellow card 37'
+RW	17	Morgan Rogers
+AM	10	Jude Bellingham
+LW	18	Anthony Gordon		downward-facing red arrow 72'
+CF	9	Harry Kane (c)
+Substitutions:
+DF	2	Ezri Konsa		upward-facing green arrow 72'
+DF	15	Dan Burn		upward-facing green arrow 82'
+DF	3	Nico O'Reilly		upward-facing green arrow 82'
+FW	22	Ivan Toney		upward-facing green arrow 90+6'
+FW	11	Marcus Rashford		upward-facing green arrow 90+6'
+Manager:
+Germany Thomas Tuchel
+
+
+GK	23	Emiliano Martínez
+RB	26	Nahuel Molina		downward-facing red arrow 72'
+CB	13	Cristian Romero	Yellow card 51'
+CB	6	Lisandro Martínez	Yellow card 42'	downward-facing red arrow 72'
+LB	3	Nicolás Tagliafico		downward-facing red arrow 81'
+RM	17	Giuliano Simeone		downward-facing red arrow 72'
+CM	5	Leandro Paredes		downward-facing red arrow 64'
+CM	20	Alexis Mac Allister
+LM	24	Enzo Fernández
+CF	10	Lionel Messi (c)
+CF	9	Julián Alvarez
+Substitutions:
+MF	15	Nicolás González		upward-facing green arrow 64'
+DF	19	Nicolás Otamendi		upward-facing green arrow 72'
+MF	7	Rodrigo De Paul	Yellow card 90+4'	upward-facing green arrow 72'
+DF	4	Gonzalo Montiel		upward-facing green arrow 72'
+FW	22	Lautaro Martínez		upward-facing green arrow 81'
+Manager:
+Lionel Scaloni
+
+Man of the Match:
+Lionel Messi (Argentina)[10]
+
+Assistant referees:[96]
+Corey Parker (United States)
+Kyle Atkins (United States)
+Fourth official:
+Maurizio Mariani (Italy)
+Reserve assistant referee:
+Daniele Bindoni (Italy)
+Video assistant referee:
+Marco Di Bello (Italy)
+Assistant video assistant referee:
+Juan Lara [de] (Chile)
+Support video assistant referee:
+Tatiana Guzmán (Nicaragua)
+Match for third place
+
+France and England had faced each other in 32 previous matches since 1923, with three of those encounters taking place at the World Cup. The first two meetings took place at the group stage and were won by England: 2–0 as host in 1966 and 3–1 in 1982. Their third tournament match (which was also their most recent meeting in any type of competition) took place in the quarterfinals of the last World Cup, when France won 2–1.[97] This was France's first appearance in such match since 1986. As both were European teams, this was already set pre-match as the twelfth consecutive World Cup in which European teams finished third, stretching back to 1982, when Poland defeated France.
+
+England manager Thomas Tuchel made seven changes to his starting lineup that lost to Argentina in the semifinal, and he was booed by some England fans before kickoff amid criticism of his tactics.[98]
+
+England stormed to a four goal lead by halftime via an early long-range strike by Declan Rice, a header by Ezri Konsa, and a double by Bukayo Saka. This marked the first time France had trailed by four goals at half-time of any international match since April 1930.[99]
+
+France made four changes at halftime, and by the hydration break in the second half, England's lead was cut to just a single goal, with Kylian Mbappé scoring twice (and ending up winning his second consecutive FIFA World Cup Golden Boot), and Bradley Barcola striking from inside the penalty box. Michael Olise almost restored parity for France, but his strike went wide. Djed Spence was then fouled in the France penalty box, resulting in a penalty to England, which was converted by Saka.[100] Deep into injury time, Ousmane Dembélé charged into the penalty box and scored France's final goal of the match. Moments later, with full time imminent, Jude Bellingham made a solo run to France's penalty box and netted England's sixth goal.[100]
+
+Saka became just the second England player in history to score a hat trick in a World Cup knockout match, after Geoff Hurst in the 1966 final,[99] and the fourth Englishman overall after Gary Lineker in 1986 and Harry Kane in 2018. The only other player to score a hat trick against France in the World Cup is Pelé for Brazil in 1958.[101]
+
+Jude Bellingham's seven goals over the tournament is the highest ever goal tally by an England player at a World Cup or UEFA European Championship tournament.[101] Declan Rice's opening goal was England's second earliest goal in a World Cup match behind only Bryan Robson, who scored after 28 seconds (also against France) in 1982,[101] which was also the last time England ever defeated France in a major tournament.
+
+This was the first World Cup match in which France conceded six goals, and the first time conceding six goals in any international match since 1960, where they lost 2–6 to Switzerland in a friendly game.[102]
+
+England's victory secured its best World Cup finish since winning the competition in 1966 (after previous attempts in 1990 and 2018),[99] and was only its second victory in the World Cup against a higher-ranked opponent in the FIFA Rankings, previously defeating Argentina 1–0 in 2002.[101]
+
+This was the highest-scoring match of the tournament, with a total of ten goals, as well as the highest-scoring World Cup bronze final of all time, eclipsing France's 6–3 win in over West Germany in 1958. It featured the joint fifth–most goals of any World Cup match, level with France's 7–3 win over Paraguay in 1958, and the most of any game in the tournament since Hungary beat El Salvador 10–1 at the 1982 FIFA World Cup.[99] It was also the third-highest-scoring knockout-stage game at any World Cup, beaten only by Brazil's 6–5 extra-time win over Poland in 1938 and Austria beating Switzerland 7–5 in 1954.
+July 18, 2026
+5:00 p.m. UTC−4
+France 	4–6	 England
+
+    Mbappé 48', 66'
+    Barcola 54'
+    Dembélé 90+6'
+
+	[Report 31]
+
+    Rice 3'
+    Konsa 18'
+    Saka 37', 45+1', 87' (pen.)
+    Bellingham 90+8'
+
+Hard Rock Stadium, Miami Gardens
+Attendance: 64,478
+Referee: Jesús Valenzuela (Venezuela)
+France[103]
+
+England[103]
+
+GK	16	Mike Maignan
+RB	2	Malo Gusto		downward-facing red arrow 90+1'
+CB	15	Ibrahima Konaté		downward-facing red arrow 46'
+CB	26	Maxence Lacroix
+LB	19	Théo Hernandez		downward-facing red arrow 46'
+CM	18	Warren Zaïre-Emery
+CM	14	Adrien Rabiot
+RW	11	Michael Olise
+AM	24	Rayan Cherki		downward-facing red arrow 46'
+LW	20	Désiré Doué		downward-facing red arrow 46'
+CF	10	Kylian Mbappé (c)
+Substitutions:
+DF	3	Lucas Digne		upward-facing green arrow 46'
+DF	4	Dayot Upamecano		upward-facing green arrow 46'
+FW	7	Ousmane Dembélé		upward-facing green arrow 46'
+FW	12	Bradley Barcola		upward-facing green arrow 46'
+DF	5	Jules Koundé		upward-facing green arrow 90+1'
+Manager:
+Didier Deschamps
+
+
+GK	13	Dean Henderson
+RB	26	Jarell Quansah		downward-facing red arrow 83'
+CB	2	Ezri Konsa
+CB	6	Marc Guéhi		downward-facing red arrow 90+2'
+LB	25	Djed Spence
+DM	4	Declan Rice (c)
+CM	17	Morgan Rogers
+CM	21	Eberechi Eze		downward-facing red arrow 79'
+RF	7	Bukayo Saka
+CF	22	Ivan Toney		downward-facing red arrow 79'
+LF	11	Marcus Rashford		downward-facing red arrow 46'
+Substitutions:
+FW	19	Ollie Watkins		upward-facing green arrow 46'
+MF	8	Elliot Anderson		upward-facing green arrow 79'
+MF	10	Jude Bellingham		upward-facing green arrow 79'
+DF	24	Reece James		upward-facing green arrow 83'
+DF	12	Trevoh Chalobah		upward-facing green arrow 90+2'
+Manager:
+Germany Thomas Tuchel
+
+Man of the Match:
+Bukayo Saka (England)[10]
+
+Assistant referees:[103]
+Jorge Urrego (Venezuela)
+Tulio Moreno (Venezuela)
+Fourth official:
+Jalal Jayed (Morocco)
+Reserve assistant referee:
+Zakaria Brinsi (Morocco)
+Video assistant referee:
+Leodán González (Uruguay)
+Assistant video assistant referee:
+Armando Villarreal (United States)
+Support video assistant referee:
+Carlos del Cerro Grande (Spain)
+Final
+Main article: 2026 FIFA World Cup final
+
+Spain and Argentina had faced each other in 14 previous matches since 1952, with an even record as both teams won six matches along with two draws. They only met once at the World Cup, when Argentina won 2–1 in the group stage of the 1966 tournament. Their latest meeting took place in 2018, a 6–1 win for Spain in a friendly.[104] They were expected to meet at the 2026 Finalissima on March 27 at Lusail Stadium in Lusail, Qatar. However, the match was cancelled as a result of the ongoing Iran war and the inability to reach an agreement to move the match to another location.[105]
+
+Spain's victory made it the second European nation to win a World Cup held in the Americas following Germany in 2014, the second nation to win a World Cup co-hosted by multiple countries after Brazil in 2002 (held in South Korea and Japan), and the first ever to do so in North America, where the previous tournament in 1994 (also in the United States) was won by Brazil.[106]
+
+On July 29, ten days after the final, FIFA opened disciplinary proceedings against the Argentine Football Association (AFA) and its players following several tournament incidents. These included post-match altercations with Spanish players after the final, as well as a potential breach of regulations regarding non-sporting demonstrations. The latter charge stemmed from an incident four days prior to the final, following Argentina's 2–1 semifinal victory over England, when players displayed a banner reading "Las Malvinas son Argentinas" ("The Falklands are Argentine") in reference to the territorial dispute between Argentina and the United Kingdom.[107][108]
+July 19, 2026
+3:00 p.m. UTC−4
+Spain 	1–0 (a.e.t.)	 Argentina
+
+    Torres 106'
+
+	[Report 32]
+MetLife Stadium, East Rutherford
+Attendance: 80,663
+Referee: Slavko Vinčić (Slovenia)
+Spain[109]
+
+Argentina[109]
+
+GK	23	Unai Simón
+RB	12	Pedro Porro
+CB	22	Pau Cubarsí
+CB	14	Aymeric Laporte		downward-facing red arrow 99'
+LB	24	Marc Cucurella
+DM	16	Rodri (c)		downward-facing red arrow 99'
+CM	10	Dani Olmo		downward-facing red arrow 75'
+CM	8	Fabián Ruiz		downward-facing red arrow 62'
+RF	19	Lamine Yamal
+CF	21	Mikel Oyarzabal		downward-facing red arrow 62'
+LF	15	Álex Baena		downward-facing red arrow 75'
+Substitutions:
+FW	7	Ferran Torres		upward-facing green arrow 62'
+MF	20	Pedri		upward-facing green arrow 62'
+MF	6	Mikel Merino		upward-facing green arrow 75'
+FW	17	Nico Williams		upward-facing green arrow 75'
+MF	18	Martín Zubimendi 		upward-facing green arrow 99'
+DF	4	Eric Garcia		upward-facing green arrow 99'
+Manager:
+Luis de la Fuente
+
+
+GK	23	Emiliano Martínez
+RB	4	Gonzalo Montiel		downward-facing red arrow 58'
+CB	13	Cristian Romero	Yellow card 90+2'	downward-facing red arrow 70'
+CB	6	Lisandro Martínez	Yellow card 41'	downward-facing red arrow 44'
+LB	3	Nicolás Tagliafico
+RM	7	Rodrigo De Paul		downward-facing red arrow 70'
+CM	24	Enzo Fernández	Yellow card 82' Yellow-red card 90+3'
+CM	20	Alexis Mac Allister 	Yellow card 111'
+LM	15	Nicolás González		downward-facing red arrow 46'
+CF	10	Lionel Messi (c)
+CF	9	Julián Alvarez		downward-facing red arrow 102'
+Substitutions:
+DF	19	Nicolás Otamendi		upward-facing green arrow 44'
+MF	5	Leandro Paredes	Yellow card 52'	upward-facing green arrow 46'
+DF	26	Nahuel Molina		upward-facing green arrow 58'
+DF	25	Facundo Medina		upward-facing green arrow 70'
+FW	17	Giuliano Simeone		upward-facing green arrow 70'
+DF	2	Marcos Senesi		upward-facing green arrow 102'
+Manager:
+Lionel Scaloni	Yellow card 105'
+
+Man of the Match:
+Ferran Torres (Spain)[10]
+
+Assistant referees:[109]
+Tomaž Klančnik (Slovenia)
+Andraž Kovačič (Slovenia)
+Fourth official:
+Adham Makhadmeh (Jordan)
+Reserve assistant referee:
+Mohammad Al-Kalaf (Jordan)
+Video assistant referee:
+Bastian Dankert (Germany)
+Assistant video assistant referee:
+Nicolás Gallo (Colombia)
+Support video assistant referee:
+Khamis Al-Marri (Qatar)
+Notes
+
+    The Mexico v Ecuador match, originally scheduled for 7:00 p.m. UTC−6, was delayed by an hour due to adverse weather conditions.[3]
+    The Mexico v England match, originally scheduled for 6:00 p.m. UTC−6, was delayed by an hour due to adverse weather conditions.[34]
+
+References
+
+    "FIFA World Cup 26 – Match Schedule" (PDF). FIFA. February 4, 2024. Archived from the original (PDF) on July 18, 2026. Retrieved February 4, 2024.
+    "FIFA World Cup 2026 Regulations" (PDF). FIFA. May 2025. Archived (PDF) from the original on June 23, 2025. Retrieved June 7, 2025.
+    Rodriguez, Carlos (June 30, 2026). "Mexico-Ecuador World Cup match starts 1 hour late after a storm in Mexico City". Associated Press. Retrieved June 30, 2026.
+    "Canada national football team: record v Morocco". 11v11.com. Retrieved June 29, 2026.
+    "Pre-match US Independence Day celebrations to add to FIFA World Cup 2026™ action". FIFA. Retrieved July 5, 2026.
+    "Canada 0 Morocco 3". BBC Sport. July 4, 2026. Retrieved July 7, 2026.
+    "World Cup 2026: Canada 0–3 Morocco – Azzedine Ounahi double helps knock out co-hosts to give 2022 semi-finalists last-eight spot". Sky Sports. July 4, 2026. Retrieved July 7, 2026.
+    "Morocco's second-half blitz ends Canada journey". RTE Sport. July 4, 2026. Retrieved July 7, 2026.
+    "Tactical Line-up – Round of 16 – Canada v. Morocco" (PDF). FIFA. July 4, 2026. Retrieved July 4, 2026.
+    "Michelob Ultra Superior Player of the Match – every winner". FIFA. June 29, 2026. Archived from the original on July 16, 2026. Retrieved July 19, 2026.
+    "Paraguay national football team: record v France". 11v11.com. Retrieved June 29, 2026.
+    "Paraguay 0 France 1". BBC Sport. July 6, 2026. Retrieved July 7, 2026.
+    "Mbappé and France ditch 'tuxedos' to play 'dirty football' and beat Paraguay". Guardian. July 6, 2026. Retrieved July 7, 2026.
+    "«Football dégoûtant», «totalement honteux»: la presse internationale étrille le Paraguay après son match face à la France", Radio France internationale, 6 July 2026
+    ""Je n'avais jamais joué un match avec autant de coups, de coups en traître" : l'arbitrage de France-Paraguay au centre des débats à la Coupe du monde", France Info, 5 July 2026
+    "'A despicable woman': Kylian Mbappé hits out at Paraguayan senator over racist attack". The Guardian. Reuters. July 6, 2026.
+    Geiger, Chris (July 6, 2026). "«Noix de coco», «chimpanzé»: une sénatrice se lâche contre Mbappé". 20 minutes (in French). Retrieved July 6, 2026.
+    Peter, Mike (July 6, 2026). "Mbappe condemns racist posts from Paraguay senator". BBC Sport.
+    "Tactical Line-up – Round of 16 – Paraguay v. France" (PDF). FIFA. July 4, 2026. Retrieved July 4, 2026.
+    "Brazil national football team: record v Norway". 11v11.com. Retrieved June 30, 2026.
+    "Haaland, Norway condemn Brazil to earliest World Cup exit since 1990". ESPN.com. Retrieved July 5, 2026.
+    "Neymar confirms Brazil retirement after World Cup exit". Yahoo! Sports. July 6, 2026.
+    "Tactical Line-up – Round of 16 – Brazil v. Norway" (PDF). FIFA. July 5, 2026. Retrieved July 5, 2026.
+    "Mexico national football team: record v England". 11v11.com. Retrieved July 1, 2026.
+    "Mexico v England, 9 June 1985". 11v11.com. Retrieved July 1, 2026.
+    Mokbel, Sami; Kearns, Sean (July 3, 2026). "England-Mexico kick-off unchanged after Fifa U-turn". BBC Sport. Retrieved July 3, 2026.
+    Ogden, Mark (July 3, 2026). "Sources: Mexico vs. England World Cup kickoff time unchanged after talks". ESPN FC. Retrieved July 3, 2026.
+    Pitt-Brooke, Jack (July 5, 2026). "England's World Cup clash with Mexico delayed due to bad weather: Live updates". The New York Times. Retrieved July 5, 2026.
+    "England win World up thriller in Mexico to reveal true identity". The Independent. July 6, 2026. Retrieved July 7, 2026.
+    "Mexico 2 England 3: Live Updates". Guardian. July 6, 2026. Retrieved July 7, 2026.
+    "Mexico 2 England 3". BBC Sport. July 6, 2026. Retrieved July 7, 2026.
+    "England hands Mexico its first World Cup loss at Estadio Azteca, winning 3–2 to reach quarterfinals". The National Herald. Retrieved July 6, 2026.
+    "England end Mexico's World Cup with best win on foreign soil in their history". ESPN. Retrieved July 5, 2026.
+    "England vs Mexico LIVE: Watch World Cup 2026 last 16 build-up, start time, lineups & weather updates". BBC Sport. July 5, 2026. Retrieved July 5, 2026.
+    "Tactical Line-up – Round of 16 – Mexico v. England" (PDF). FIFA. July 5, 2026. Retrieved July 5, 2026.
+    "Portugal national football team: record v Spain". 11v11.com. Retrieved July 2, 2026.
+    "Merino strikes at the death for Spain to send Portugal and Ronaldo limping out". Guardian. July 6, 2026. Retrieved July 7, 2026.
+    "Portugal 0 Spain 1". BBC Sport. July 6, 2026. Retrieved July 7, 2026.
+    Beattie, Darren (July 6, 2026). "Roberto Martinez to leave Portugal job following 2026 FIFA World Cup exit to Spain – 'Does not make sense to continue'". TNT Sports.
+    "Record-setting Ronaldo says goodbye to the World Cup". FIFA. July 7, 2026.
+    "Tactical Line-up – Round of 16 – Portugal v. Spain" (PDF). FIFA. July 6, 2026. Retrieved July 6, 2026.
+    "United States national football team: record v Belgium". 11v11.com. Retrieved July 2, 2026.
+    "UEFA statement on the Balogun case". UEFA.com. July 6, 2026.
+    Downs, Garrett; Sommers, Jack; Mangan, Dan (July 5, 2026). "Balogun to start for U.S. vs. Belgium after Trump defends call to FIFA". CNBC.
+    Tobin, Sam. "Belgium end US World Cup dreams with 4–1 rout amid Balogun row". Reuters.
+    Vertelney, Seth; Armour, Nancy; Mendoza, Jordan; Yomtov, Jesse. "USA eliminated from World Cup with nightmare moment in loss to Belgium". USA TODAY. Retrieved July 7, 2026.
+    Blum, Ronald (July 6, 2026). "Belgium beats US 4–1 to reach World Cup quarterfinals, taking advantage of defensive lapses". AP News. Retrieved July 7, 2026.
+    Gray, Ben (July 7, 2026). "Stats show the USMNT's loss to Belgium was their worst World Cup performance in decades". Fansided.com.
+    "Tactical Line-up – Round of 16 – USA v. Belgium" (PDF). FIFA. July 6, 2026. Retrieved July 6, 2026.
+    "Argentina national football team: record v Egypt". 11v11.com. Retrieved July 3, 2026.
+    "Argentina v Egypt, 06 June 1928". 11v11.com. Retrieved July 4, 2026.
+    "World Cup 2026: Argentina 3–2 Egypt – Lionel Messi and holders come from two down as Enzo Fernandez wins classic". Sky Sports. July 7, 2026. Retrieved July 10, 2026.
+    "Messi, Argentina ride VAR drama to complete epic comeback vs. Egypt". ESPN. July 7, 2026. Retrieved July 10, 2026.
+    "Argentina 3 Egypt 2". BBC Sport. July 7, 2026. Retrieved July 10, 2026.
+    "Tactical Line-up – Round of 16 – Argentina v. Egypt" (PDF). FIFA. July 7, 2026. Retrieved July 7, 2026.
+    "Switzerland national football team: record v Colombia". 11v11.com. Retrieved July 3, 2026.
+    Ramírez, Frida (July 6, 2026). "Colombia will make history at the 2026 World Cup: it will be the only national team to have played in the United States, Mexico, and Canada". beIN Sports. Retrieved July 7, 2026.
+    "Switzerland knock out Colombia on penalties to reach World Cup quarter-finals". Guardian. July 7, 2026. Retrieved July 8, 2026.
+    "Switzerland 0 Colombia 0 (4–3 on pens)". BBC Sport. July 7, 2026. Retrieved July 8, 2026.
+    Ramírez, Frida Samantha (July 7, 2026). "America disappoints at the 2026 World Cup: only Argentina survives as the rest of the continent suffers a historic failure". beIN Sports.
+    "Tactical Line-up – Round of 16 – Switzerland v. Colombia" (PDF). FIFA. July 7, 2026. Retrieved July 7, 2026.
+    "France national football team: record v Morocco". 11v11.com. Retrieved July 4, 2026.
+    "France coach Deschamps unhappy with wait on missed Mbappé pen". ESPN. July 9, 2026. Retrieved July 10, 2026.
+    "World Cup 2026: France 2–0 Morocco – Kylian Mbappe magic decides quarter-final after his own early penalty miss". Sky Sport. July 9, 2025. Retrieved July 10, 2026.
+    "France 2 Morocco 0". BBC Sport. July 9, 2025. Retrieved July 10, 2026.
+    "Tactical Line-up – Quarter-final – France v. Morocco" (PDF). FIFA. July 9, 2026. Retrieved July 9, 2026.
+    "Spain national football team: record v Belgium". 11v11.com. Retrieved July 6, 2026.
+    "Belgium v Spain, 29 August 1920". 11v11.com. Retrieved July 10, 2026.
+    https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/statistics/team-statistics. {{cite web}}: Missing or empty |title= (help)
+    "Tactical Line-up – Quarter-final – Spain v. Belgium" (PDF). FIFA. July 10, 2026. Retrieved July 10, 2026.
+    "Norway national football team: record v England". 11v11.com. Retrieved July 5, 2026.
+    McNulty, Phil (July 11, 2026). "Norway 1–2 England: Jude Bellingham scores twice as Three Lions reach World Cup semi-final – BBC Sport". BBC Sport.
+    Rajan, Adwaidh (July 12, 2026). "Did ball hit spidercam before England goal? Snicko says not – Norway unsure". BBC Sport.
+    Hunt, Holly (July 12, 2026). "Norway 1–2 England stats: Three Lions match winning streak". England Football.
+    "Tactical Line-up – Quarter-final – Norway v. England" (PDF). FIFA. July 11, 2026. Retrieved July 11, 2026.
+    "Argentina survive Switzerland scare to book semifinal with England". ESPN Sport. July 12, 2026.
+    "Argentina national football team: record v Switzerland". 11v11.com. Retrieved July 7, 2026.
+    "Tactical Line-up – Quarter-final – Argentina v. Switzerland" (PDF). FIFA. July 11, 2026. Retrieved July 11, 2026.
+    "Top four in FIFA/Coca Cola World Ranking set for historic showdown". FIFA. July 12, 2026. Archived from the original on July 14, 2026. Retrieved July 14, 2026.
+    "France national football team: record v Spain". 11v11.com. Retrieved July 9, 2026.
+    "Spain reach World Cup final after Oyarzabal and Porro sink sorry France". Guardian. July 14, 2026. Retrieved July 16, 2026.
+    "France 0 Spain 2". BBC Sport. July 14, 2026. Retrieved July 16, 2026.
+    "Tactical Line-up – Semi-final – France v. Spain" (PDF). FIFA. July 14, 2026. Retrieved July 14, 2026.
+    "England national football team: record v Argentina". 11v11.com. Retrieved July 11, 2026.
+    "World Cup 2026: England 1–2 Argentina – Three Lions suffer semi-final loss after stunning late turnaround by holders". Sky Sports. July 15, 2026. Retrieved July 16, 2026.
+    "Argentina's late double breaks England hearts in dramatic World Cup semi-final". Guardian. July 15, 2026. Retrieved July 16, 2026.
+    "'Passive' and 'crumbled' – did Tuchel's defensive tactics cost England". BBC Sport. July 15, 2026. Retrieved July 16, 2026.
+    "England 1 Argentina 2". BBC Sport. July 15, 2026. Retrieved July 16, 2026.
+    McNulty, Phil (July 16, 2026). "Why England's loss to Argentina felt like most painful in 60 years of hurt". BBC Sport. Retrieved July 16, 2026.
+    Olley, James (July 15, 2026). "Thomas Tuchel vows to stay as England boss, defends tactics vs. Argentina".
+    "Bombshell dressing room reveal after WC blunder as England coach blames 'weak DNA'". Fox Sports. July 17, 2026.
+    "'Malvinas are Argentine': World Cup holders celebrate win over England with Falklands banner". The Guardian. Retrieved July 16, 2026.
+    "World Cup quick hits: England boss Thomas Tuchel's tactics allow Lionel Messi to orchestrate Argentina win". ABC News. July 16, 2026.
+    "UK urges FIFA investigation of Argentina over Falklands banner". ESPN. July 17, 2026.
+    "Argentina players banned for World Cup brawl and AFA fined over Falklands banner". Sky News. August 21, 2026. Retrieved September 8, 2026.
+    "Tactical Line-up – Semi-final – England v. Argentina" (PDF). FIFA. July 15, 2026. Retrieved July 15, 2026.
+    "France national football team: record v England". 11v11.com. Retrieved July 14, 2026.
+    Carr, Harry (July 19, 2026). "France 4-6 England Stats: Three Lions Secure Third Place After 10-Goal Thriller". Opta Analyst.
+    Smith, Emma (July 18, 2026). "England 6–4 France: Bukayo Saka nets hat-trick in thriller as Three Lions finish third". BBC Sport.
+    Masters, Tom (July 19, 2026). "France 4–6 England: Bukayo Saka scores hat trick as Thomas Tuchel's men win thriller to finish third". ESPN Sport.
+    Hargraves, Dan (July 19, 2026). "France 4-6 England stats: Saka follows Three Lions legend". England Football.
+    Zakutskaja, Lera (July 19, 2026). "France concede six goals for first time since 1960". Tribuna.
+    "Tactical Line-up – Bronze final – France v. England" (PDF). FIFA. July 18, 2026. Retrieved July 18, 2026.
+    "Spain national football team: record v Argentina". 11v11.com. Retrieved July 14, 2026.
+    "2026 edition of Finalissima cancelled" (Press release). UEFA. March 15, 2026.
+    García García, Sergio (July 19, 2026). "North and South America remain a curse for European teams: This is the only country to win the World Cup in the Americas". Diario AS. Madrid, Spain.
+    Botcherby, Elizabeth (July 29, 2026). "Fifa opens disciplinary proceedings against Argentina". BBC Sport.
+    "World Cup 2026: FIFA opens disciplinary proceedings against Argentina over several potential breaches including Falklands banner". Sky Sports. July 29, 2026.
+    "Tactical Line-up – Final – Spain v. Argentina" (PDF). FIFA. July 19, 2026. Retrieved July 19, 2026.
+
+Match reports
+
+        "South Africa vs Canada | Round of 32 | FIFA World Cup 2026". FIFA. Retrieved June 28, 2026.
+        "Match Report – Round of 32 – South Africa v. Canada". FIFA. June 28, 2026. Retrieved June 28, 2026.
+        "Post match summary report – Round of 32 – South Africa v. Canada". FIFA. June 29, 2026. Retrieved June 29, 2026.
+        "Brazil vs Japan | Round of 32 | FIFA World Cup 2026". FIFA. Retrieved June 29, 2026.
+        "Match Report – Round of 32 – Brazil v. Japan". FIFA. June 29, 2026. Retrieved June 29, 2026.
+        "Post match summary report – Round of 32 – Brazil v. Japan". FIFA. June 30, 2026. Retrieved June 30, 2026.
+        "Germany vs Paraguay | Round of 32 | FIFA World Cup 2026". FIFA. Retrieved June 29, 2026.
+        "Match Report – Round of 32 – Germany v. Paraguay". FIFA. June 29, 2026. Retrieved June 29, 2026.
+        "Post match summary report – Round of 32 – Germany v. Paraguay". FIFA. June 30, 2026. Retrieved June 30, 2026.
+        "Netherlands vs Morocco | Round of 32 | FIFA World Cup 2026". FIFA. Retrieved June 30, 2026.
+        "Match Report – Round of 32 – Netherlands v. Morocco". FIFA. June 30, 2026. Retrieved June 30, 2026.
+        "Post match summary report – Round of 32 – Netherlands v. Morocco". FIFA. June 30, 2026. Retrieved June 30, 2026.
+        "Côte d'Ivoire vs Norway | Round of 32 | FIFA World Cup 2026". FIFA. Retrieved June 30, 2026.
+        "Match Report – Round of 32 – Côte d'Ivoire v. Norway". FIFA. June 30, 2026. Retrieved June 30, 2026.
+        "Post match summary report – Round of 32 – Côte d'Ivoire vs. Norway". FIFA. July 1, 2026. Retrieved July 1, 2026.
+        "France vs Sweden | Round of 32 | FIFA World Cup 2026". FIFA. Retrieved June 30, 2026.
+        "Match Report – Round of 32 – France v. Sweden". FIFA. June 30, 2026. Retrieved June 30, 2026.
+        "Post match summary report – Round of 32 – France vs. Sweden". FIFA. July 1, 2026. Retrieved July 1, 2026.
+        "Mexico vs Ecuador | Round of 32 | FIFA World Cup 2026". FIFA. Retrieved July 1, 2026.
+        "Match Report – Round of 32 – Mexico v. Ecuador". FIFA. July 1, 2026. Retrieved July 1, 2026.
+        "Post match summary report – Round of 32 – Mexico v. Ecuador". FIFA. July 1, 2026. Retrieved July 1, 2026.
+        "England vs Congo DR | Round of 32 | FIFA World Cup 2026". FIFA. Retrieved July 1, 2026.
+        "Match Report – Round of 32 – England v. Congo DR". FIFA. July 1, 2026. Retrieved July 1, 2026.
+        "Post match summary report – Round of 32 – England v. Congo DR". FIFA. July 1, 2026. Retrieved July 3, 2026.
+        "Belgium vs Senegal | Round of 32 | FIFA World Cup 2026". FIFA. Retrieved June 28, 2026.
+        "Match Report – Round of 32 – Belgium v. Senegal". FIFA. July 1, 2026. Retrieved July 1, 2026.
+        "Post match summary report – Round of 32 – Belgium v. Senegal". FIFA. July 1, 2026. Retrieved July 3, 2026.
+        "USA vs Bosnia and Herzegovina | Round of 32 | FIFA World Cup 2026". FIFA. Retrieved July 2, 2026.
+        "Match Report – Round of 32 – USA v. Bosnia and Herzegovina". FIFA. July 2, 2026. Retrieved July 2, 2026.
+        "Post match summary report – Round of 32 – USA v. Bosnia and Herzegovina". FIFA. July 1, 2026. Retrieved July 3, 2026.
+        "Spain vs Austria | Round of 32 | FIFA World Cup 2026". FIFA. Retrieved July 2, 2026.
+        "Match Report – Round of 32 – Spain v. Austria". FIFA. July 2, 2026. Retrieved July 2, 2026.
+        "Post match summary report – Round of 32 – Spain v. Austria". FIFA. July 2, 2026. Retrieved July 3, 2026.
+        "Portugal vs Croatia | Round of 32 | FIFA World Cup 2026". FIFA. Retrieved July 3, 2026.
+        "Match Report – Round of 32 – Portugal v. Croatia". FIFA. July 3, 2026. Retrieved July 3, 2026.
+        "Post match summary report – Round of 32 – Portugal v. Croatia". FIFA. July 2, 2026. Retrieved July 3, 2026.
+        "Switzerland vs Algeria | Round of 32 | FIFA World Cup 2026". FIFA. Retrieved July 3, 2026.
+        "Match Report – Round of 32 – Switzerland v. Algeria". FIFA. July 3, 2026. Retrieved July 3, 2026.
+        "Post match summary report – Round of 32 – Switzerland v. Algeria". FIFA. July 3, 2026. Retrieved July 3, 2026.
+        "Australia vs Egypt | Round of 32 | FIFA World Cup 2026". FIFA. Retrieved July 3, 2026.
+        "Match Report – Round of 32 – Australia v. Egypt". FIFA. July 3, 2026. Retrieved July 3, 2026.
+        "Post match summary report – Round of 32 – Australia v. Egypt". FIFA. July 3, 2026. Retrieved July 4, 2026.
+        "Argentina vs Cabo Verde | Round of 32 | FIFA World Cup 2026". FIFA. Retrieved July 4, 2026.
+        "Match Report – Round of 32 – Argentina v. Cabo Verde". FIFA. July 4, 2026. Retrieved July 4, 2026.
+        "Post match summary report – Round of 32 – Argentina v. Cabo Verde". FIFA. July 3, 2026. Retrieved July 4, 2026.
+        "Colombia vs Ghana | Round of 32 | FIFA World Cup 2026". FIFA. July 4, 2026. Retrieved July 4, 2026.
+        "Match Report – Round of 32 – Colombia v. Ghana". FIFA. July 4, 2026. Retrieved July 4, 2026.
+        "Post match summary report – Round of 32 – Colombia v. Ghana". FIFA. July 3, 2026. Retrieved July 4, 2026.
+        "Canada vs Morocco | Round of 16 | FIFA World Cup 2026". FIFA. Retrieved July 4, 2026.
+        "Match Report – Round of 16 – Canada v. Morocco". FIFA. July 4, 2026. Retrieved July 4, 2026.
+        "Post match summary report – Round of 16 – Canada v. Morocco". FIFA. July 4, 2026. Retrieved July 6, 2026.
+        "Paraguay vs France | Round of 16 | FIFA World Cup 2026". FIFA. Retrieved July 4, 2026.
+        "Match Report – Round of 16 – Paraguay v. France". FIFA. July 4, 2026. Retrieved July 4, 2026.
+        "Post match summary report – Round of 16 – Paraguay v. France". FIFA. July 4, 2026. Retrieved July 5, 2026.
+        "Brazil vs Norway | Round of 16 | FIFA World Cup 2026". FIFA. Retrieved July 5, 2026.
+        "Match Report – Round of 16 – Brazil v. Norway". FIFA. July 5, 2026. Retrieved July 5, 2026.
+        "Post match summary report – Round of 16 – Brazil v. Norway". FIFA. July 5, 2026. Retrieved July 6, 2026.
+        "Mexico vs England | Round of 16 | FIFA World Cup 2026". FIFA. Retrieved July 6, 2026.
+        "Match Report – Round of 16 – Mexico v. England". FIFA. July 6, 2026. Retrieved July 6, 2026.
+        "Post match summary report – Round of 16 – Mexico v. England". FIFA. July 6, 2026. Retrieved July 6, 2026.
+        "Portugal vs Spain | Round of 16 | FIFA World Cup 2026". FIFA. Retrieved July 6, 2026.
+        "Match Report – Round of 16 – Portugal v. Spain". FIFA. July 6, 2026. Retrieved July 6, 2026.
+        "Post match summary report – Round of 16 – Portugal v. Spain". FIFA. July 6, 2026. Retrieved July 7, 2026.
+        "USA vs Belgium | Round of 16 | FIFA World Cup 2026". FIFA. Retrieved July 7, 2026.
+        "Match Report – Round of 16 – USA v. Belgium". FIFA. July 7, 2026. Retrieved July 7, 2026.
+        "Post match summary report – Round of 16 – USA v. Belgium". FIFA. July 7, 2026. Retrieved July 7, 2026.
+        "Argentina vs Egypt | Round of 16 | FIFA World Cup 2026". FIFA. Retrieved July 7, 2026.
+        "Match Report – Round of 16 – Argentina v. Egypt". FIFA. July 7, 2026. Retrieved July 7, 2026.
+        "Post match summary report – Round of 16 – Argentina v. Egypt". FIFA. July 7, 2026. Retrieved July 9, 2026.
+        "Switzerland vs Colombia | Round of 16 | FIFA World Cup 2026". FIFA. Retrieved July 7, 2026.
+        "Match Report – Round of 16 – Switzerland v. Colombia". FIFA. July 7, 2026. Retrieved July 7, 2026.
+        "Post match summary report – Round of 16 – Switzerland v. Colombia". FIFA. July 7, 2026. Retrieved July 9, 2026.
+        "France vs Morocco | Quarter-final | FIFA World Cup 2026". FIFA. Retrieved July 9, 2026.
+        "Match Report – Quarter-final – France v. Morocco". FIFA. July 9, 2026. Retrieved July 9, 2026.
+        "Post match summary report – Quarter-final – France v. Morocco". FIFA. July 9, 2026. Retrieved July 10, 2026.
+        "Spain vs Belgium | Quarter-final | FIFA World Cup 2026". FIFA. Retrieved July 10, 2026.
+        "Match Report – Quarter-final – Spain v. Belgium". FIFA. July 10, 2026. Retrieved July 10, 2026.
+        "Post match summary report – Quarter-final – Spain v. Belgium". FIFA. July 11, 2026. Retrieved July 11, 2026.
+        "Norway vs England | Quarter-final | FIFA World Cup 2026". FIFA. Retrieved July 11, 2026.
+        "Match Report – Quarter-final – Norway v. England". FIFA. July 11, 2026. Retrieved July 11, 2026.
+        "Post match summary report – Quarter-final – Norway v. England". FIFA. July 11, 2026. Retrieved July 12, 2026.
+        "Argentina vs Switzerland | Quarter-final | FIFA World Cup 2026". FIFA. Retrieved July 12, 2026.
+        "Match Report – Quarter-final – Argentina v. Switzerland". FIFA. July 12, 2026. Retrieved July 12, 2026.
+        "Post match summary report – Quarter-final – Argentina v. Switzerland". FIFA. July 12, 2026. Retrieved July 12, 2026.
+        "France vs Spain | Semi-final | FIFA World Cup 2026". FIFA. Retrieved July 14, 2026.
+        "Match Report – Semi-final – France v. Spain". FIFA. July 14, 2026. Retrieved July 14, 2026.
+        "Post match summary report – Semi-final – France v. Spain". FIFA. July 15, 2026. Retrieved July 15, 2026.
+        "England vs Argentina | Semi-final | FIFA World Cup 2026". FIFA. Retrieved July 15, 2026.
+        "Match Report – Semi-final – England v. Argentina". FIFA. July 15, 2026. Retrieved July 15, 2026.
+        "Post match summary report – Semi-final – England v. Argentina". FIFA. July 16, 2026. Retrieved July 16, 2026.
+        "France vs England | Bronze final | FIFA World Cup 2026". FIFA. Retrieved July 15, 2026.
+        "Match Report – Bronze final – France v. England". FIFA. July 18, 2026. Retrieved July 18, 2026.
+        "Post match summary report – Bronze final – France v. England". FIFA. July 18, 2026. Retrieved July 19, 2026.
+        "Spain vs Argentina | Final | FIFA World Cup 2026". FIFA. Retrieved July 19, 2026.
+        "Match Report – Final – Spain v. Argentina". FIFA. July 19, 2026. Retrieved July 19, 2026.
+        "Post match summary report – Final – Spain v. Argentina". FIFA. July 20, 2026. Retrieved July 20, 2026.
+
+External links
+
+    Official website
+
+    vte
+
+2026 FIFA World Cup
+
+
+
+
+
+
+
+
+Categories:
+
+    2020s in Jalisco2020s in Kansas City, Missouri2020s in Mexico City2026 FIFA World Cup2026 in Atlanta2026 in Houston2026 in Miami-Dade County, Florida2026 in Philadelphia2026 in Seattle2026 in sports in British Columbia2026 in sports in California2026 in sports in Florida2026 in sports in Georgia (U.S. state)2026 in sports in Los Angeles County, California2026 in sports in Massachusetts2026 in sports in Missouri2026 in sports in New Jersey2026 in sports in Pennsylvania2026 in sports in Texas2026 in sports in Toronto2026 in sports in Washington (state)2026 in Vancouver21st century in Arlington, Texas21st century in Nuevo LeónAlgeria at the 2026 FIFA World CupArgentina at the 2026 FIFA World CupAustralia at the 2026 FIFA World CupAustria at the 2026 FIFA World CupBelgium at the 2026 FIFA World CupBosnia and Herzegovina at the 2026 FIFA World CupBrazil at the 2026 FIFA World CupCanada at the 2026 FIFA World CupCape Verde at the 2026 FIFA World CupColombia at the 2026 FIFA World CupCroatia at the 2026 FIFA World CupDR Congo at the 2026 FIFA World CupEcuador at the 2026 FIFA World CupEgypt at the 2026 FIFA World CupEngland at the 2026 FIFA World CupFIFA World Cup knockout stagesFootball competitions in Mexico CityFootball in JaliscoFootball in Nuevo LeónFrance at the 2026 FIFA World CupGermany at the 2026 FIFA World CupGhana at the 2026 FIFA World CupGuadalupe, Nuevo LeónIvory Coast at the 2026 FIFA World CupJapan at the 2026 FIFA World CupMexico at the 2026 FIFA World CupMorocco at the 2026 FIFA World CupNetherlands at the 2026 FIFA World CupNorway at the 2026 FIFA World CupParaguay at the 2026 FIFA World CupPortugal at the 2026 FIFA World CupSenegal at the 2026 FIFA World CupSoccer competitions in CaliforniaSoccer competitions in FloridaSoccer competitions in Georgia (U.S. state)Soccer competitions in HoustonSoccer competitions in Kansas City, MissouriSoccer competitions in Los Angeles County, CaliforniaSoccer competitions in MassachusettsSoccer competitions in New JerseySoccer competitions in PennsylvaniaSoccer competitions in TexasSoccer competitions in TorontoSoccer competitions in VancouverSoccer competitions in Washington (state)Soccer in AtlantaSoccer in PhiladelphiaSoccer in SeattleSouth Africa at the 2026 FIFA World CupSpain at the 2026 FIFA World CupSport in ZapopanSports competitions in Arlington, TexasSports competitions in AtlantaSports competitions in East Rutherford, New JerseySports competitions in Foxborough, MassachusettsSports competitions in Inglewood, CaliforniaSports competitions in Miami Gardens, FloridaSports competitions in PhiladelphiaSports competitions in Santa Clara, CaliforniaSports competitions in SeattleSweden at the 2026 FIFA World CupSwitzerland at the 2026 FIFA World CupUnited States at the 2026 FIFA World Cup
+
+    This page was last edited on 9 September 2026, at 19:11 (UTC). Page was rendered with Parsoid.
+    Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+    Privacy policy
+    About Wikipedia
+    Disclaimers
+    Contact Wikipedia
+    Legal & safety contacts
+    Code of Conduct
+    Developers
+    Statistics
+    Cookie statement
+    Mobile view
+
+    Wikimedia Foundation
+    Powered by MediaWiki
+
