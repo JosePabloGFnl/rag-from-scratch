@@ -1,4 +1,7 @@
+import numpy as np
 import os
+from sentence_transformers import SentenceTransformer
+import faiss
 
 def file_loader():
     p = r"data"
@@ -59,6 +62,20 @@ def recursive_chunking(text: str, max_chunk_size: int = 1000):
     # Fallback: split by character limit if no separators work
     return [text[i:i + max_chunk_size] for i in range(0, len(text), max_chunk_size)]
 
+def embed(list_of_sentences: list):
+    model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
+    embeddings = model.encode(list_of_sentences)
+
+    return embeddings
+
+def build_index(embeddings: np.ndarray):
+    # Compares against every stored vector, no approximation, exact results.
+    # "L2" is straight-line distance.
+    index = faiss.IndexFlatL2(embeddings.shape[1])
+    index.add(embeddings)
+    return index
+
+
 def main():
     articles = file_loader()
     all_chunks = []
@@ -66,6 +83,8 @@ def main():
         chunks = recursive_chunking(article['text'])
         for i, chunk in enumerate(chunks):
             all_chunks.append({"source": article['source'], "text": chunk, "index": i})
-    print(len(all_chunks))
+    embeddings =embed([chunk['text'] for chunk in all_chunks])
+    vectors = build_index(embeddings)
+    print(vectors)
 
 main()
