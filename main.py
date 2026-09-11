@@ -71,9 +71,19 @@ def embed(list_of_sentences: list):
 def build_index(embeddings: np.ndarray):
     # Compares against every stored vector, no approximation, exact results.
     # "L2" is straight-line distance.
+    # Two different models produce two unrelated spaces, and distances across them are meaningless.
     index = faiss.IndexFlatL2(embeddings.shape[1])
     index.add(embeddings)
     return index
+
+def querying(question: str, index: faiss.Index, all_chunks: list, k: int):
+    # distances — how far each hit is. Lower is closer, since L2 is a distance.
+    # indices — the row numbers of the matching vectors
+    query_vector = embed([question])
+
+    distances, indices = index.search(query_vector, k)
+
+    print(distances, indices)
 
 
 def main():
@@ -84,7 +94,8 @@ def main():
         for i, chunk in enumerate(chunks):
             all_chunks.append({"source": article['source'], "text": chunk, "index": i})
     embeddings =embed([chunk['text'] for chunk in all_chunks])
-    vectors = build_index(embeddings)
-    print(vectors)
+    index = build_index(embeddings)
+
+    querying("Who won the world cup", index, all_chunks, 2   )
 
 main()
