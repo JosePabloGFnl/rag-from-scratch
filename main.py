@@ -83,7 +83,10 @@ def querying(question: str, index: faiss.Index, all_chunks: list, k: int):
 
     distances, indices = index.search(query_vector, k)
 
-    print(distances, indices)
+    # match lookup
+    for row in indices[0]:
+        match = all_chunks[row]
+        print(match['source'], match['text'][:200])
 
 
 def main():
@@ -96,6 +99,7 @@ def main():
     embeddings =embed([chunk['text'] for chunk in all_chunks])
     index = build_index(embeddings)
 
-    querying("Who won the world cup", index, all_chunks, 2   )
+    # k>1. Not "more chances to get lucky," but that redundancy across independent chunks lets the generation step resolve what retrieval alone couldn't rank.
+    querying("Who won the world cup", index, all_chunks, 5   )
 
 main()
