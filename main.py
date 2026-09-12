@@ -5,7 +5,7 @@ import faiss
 from dotenv import load_dotenv
 from langchain_core.tools import tool
 from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain_core.messages import HumanMessage
+from langchain_core.messages import HumanMessage, ToolMessage
 
 def file_loader():
     p = r"data"
@@ -121,8 +121,19 @@ def build_agent(index, all_chunks):
 
 def ask(question, model, tool):
     messages = [HumanMessage(content=question)]
-    response = model.invoke(messages)
-    return response.tool_calls
+    while True:
+        response = model.invoke(messages)
+        if not response.tool_calls:
+            return response.content
+        messages.append(response)
+
+        for call in response.tool_calls:
+
+            passage = tool.invoke(call["args"])
+            tool_message = ToolMessage(passage, tool_call_id=call["id"])
+
+            messages.append(tool_message)
+
 
 
 def main():
