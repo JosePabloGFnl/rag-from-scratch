@@ -3,6 +3,8 @@ import os
 from sentence_transformers import SentenceTransformer
 import faiss
 from dotenv import load_dotenv
+from langchain_core.tools import tool
+from langchain_google_genai import ChatGoogleGenerativeAI
 
 def file_loader():
     p = r"data"
