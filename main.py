@@ -7,6 +7,7 @@ from langchain_core.tools import tool
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.messages import HumanMessage, ToolMessage
 
+
 def file_loader():
     p = r"data"
 
@@ -23,12 +24,14 @@ def file_loader():
                 })
     return articles
 
+
 def recursive_chunking(text: str, max_chunk_size: int = 1000):
     # Base case: if text is small enough, return as single chunk
     if len(text) <= max_chunk_size:
         return [text.strip()] if text.strip() else []
 
-    # Try separators in priority order
+    # Ordered widest to narrowest. Splitting on paragraph breaks first keeps
+    # sentences intact, so this needs no overlap to protect boundaries.
     separators = ["\n\n", "\n", ". ", " "]
 
     for separator in separators:
@@ -63,41 +66,48 @@ def recursive_chunking(text: str, max_chunk_size: int = 1000):
 
             return [chunk for chunk in final_chunks if chunk]
 
-    # Fallback: split by character limit if no separators work
+    # Fallback: split by character limit if no separators work.
+    # This is the one path that can cut mid-sentence.
     return [text[i:i + max_chunk_size] for i in range(0, len(text), max_chunk_size)]
 
-def embed(list_of_sentences: list):
-    model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
-    embeddings = model.encode(list_of_sentences)
 
-    return embeddings
+# Cached: loading the model is ~90MB from disk, and an agent may call embed
+# an unpredictable number of times per question.
+_model = None
+
+
+def embed(list_of_sentences: list):
+    global _model
+    if _model is None:
+        _model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
+    return _model.encode(list_of_sentences)
+
 
 def build_index(embeddings: np.ndarray):
-    # Compares against every stored vector, no approximation, exact results.
-    # "L2" is straight-line distance.
-    # Two different models produce two unrelated spaces, and distances across them are meaningless.
+    # "Flat" compares against every stored vector: no approximation, exact
+    # results. Fine at this scale; approximate indexes earn their keep in the
+    # millions. "L2" is straight-line distance.
+    # Query and chunks must share an embedding model. Two different models
+    # produce two unrelated spaces, and distances across them are meaningless.
     index = faiss.IndexFlatL2(embeddings.shape[1])
     index.add(embeddings)
     return index
 
-def querying(question: str, index: faiss.Index, all_chunks: list, k: int):
-    # distances — how far each hit is. Lower is closer, since L2 is a distance.
-    # indices — the row numbers of the matching vectors
-    query_vector = embed([question])
 
-    distances, indices = index.search(query_vector, k)
-
-    # match lookup
-    for row in indices[0]:
-        match = all_chunks[row]
-        return(match['source'], match['text'][:200])
-
+# Closure, not globals: the model only supplies `query`, so `index` and
+# `all_chunks` have to reach the tool through the enclosing scope.
 def make_tool(index, all_chunks):
     @tool
     def search_corpus(query: str) -> str:
+        # The docstring IS the interface. The model decides whether to call
+        # this based on it alone.
         """This searcher is intended for FIFA World Cup 2026 questions."""
         query_vector = embed([query])
-        distances, indices = index.search(query_vector, 5)
+        _, indices = index.search(query_vector, 5)
+
+        # FAISS returns row numbers. all_chunks is the lookup table that turns
+        # them back into readable text; position alignment between the two is
+        # an invariant nothing enforces.
         passages = []
         for row in indices[0]:
             match = all_chunks[row]
@@ -110,46 +120,72 @@ def build_agent(index, all_chunks):
     search_tool = make_tool(index, all_chunks)
     model = ChatGoogleGenerativeAI(
         model="gemini-3.6-flash",
-        temperature=1.0,  # Gemini 3.0+ defaults to 1.0
         max_tokens=None,
         timeout=None,
         max_retries=2,
-                )
+    )
 
+    # bind_tools tells the model the tool exists. It cannot run it: that stays
+    # our job, which is why the tool itself is returned too.
     model_with_tools = model.bind_tools([search_tool])
     return model_with_tools, search_tool
 
+
 def ask(question, model, tool):
     messages = [HumanMessage(content=question)]
+
+    # The model controls the flow: it may search zero times, once, or several
+    # times before answering. This loop runs until it stops asking for tools.
     while True:
         response = model.invoke(messages)
+
         if not response.tool_calls:
-            return response.content
+            content = response.content
+            # Newer models return a list of typed blocks, not a plain string.
+            if isinstance(content, list):
+                return "".join(
+                    b.get("text", "") for b in content if b.get("type") == "text"
+                )
+            return content
+
+        # The model's own reply has to go back too, or the results below
+        # answer a request it has no record of making.
         messages.append(response)
 
         for call in response.tool_calls:
-
             passage = tool.invoke(call["args"])
-            tool_message = ToolMessage(passage, tool_call_id=call["id"])
-
-            messages.append(tool_message)
-
+            # tool_call_id pairs this result with the request it answers.
+            messages.append(ToolMessage(passage, tool_call_id=call["id"]))
 
 
-def main():
-    articles = file_loader()
+def build_chunks(articles):
     all_chunks = []
     for article in articles:
         chunks = recursive_chunking(article['text'])
         for i, chunk in enumerate(chunks):
-            all_chunks.append({"source": article['source'], "text": chunk, "index": i})
-    embeddings =embed([chunk['text'] for chunk in all_chunks])
+            all_chunks.append({
+                "source": article['source'],
+                "text": chunk,
+                "index": i
+            })
+    return all_chunks
+
+
+def main():
+    load_dotenv()
+
+    articles = file_loader()
+    all_chunks = build_chunks(articles)
+
+    # Indexing happens once at startup; asking happens per question.
+    embeddings = embed([chunk['text'] for chunk in all_chunks])
     index = build_index(embeddings)
 
-    # k>1. Not "more chances to get lucky," but that redundancy across independent chunks lets the generation step resolve what retrieval alone couldn't rank.
-    question = "Who won the 2026 USA-Mexico-Canada world cup"
-    querying(question, index, all_chunks, 5   )
     model_with_tools, search_tool = build_agent(index, all_chunks)
+
+    question = "Who won the 2026 USA-Mexico-Canada world cup"
     print(ask(question, model_with_tools, search_tool))
 
-main()
+
+if __name__ == "__main__":
+    main()
