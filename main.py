@@ -2,6 +2,7 @@ import numpy as np
 import os
 from sentence_transformers import SentenceTransformer
 import faiss
+from dotenv import load_dotenv
 
 def file_loader():
     p = r"data"
@@ -86,7 +87,20 @@ def querying(question: str, index: faiss.Index, all_chunks: list, k: int):
     # match lookup
     for row in indices[0]:
         match = all_chunks[row]
-        print(match['source'], match['text'][:200])
+        return(match['source'], match['text'][:200])
+
+def make_tool(index, all_chunks):
+    @tool
+    def search_corpus(query: str) -> str:
+        """This searcher is intended for FIFA World Cup 2026 questions."""
+        query_vector = embed([query])
+        distances, indices = index.search(query_vector, 5)
+        passages = []
+        for row in indices[0]:
+            match = all_chunks[row]
+            passages.append(f"{match['source']}: {match['text']}")
+        return "\n\n".join(passages)
+    return search_corpus
 
 
 def main():
