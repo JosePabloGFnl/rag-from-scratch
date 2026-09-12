@@ -105,6 +105,19 @@ def make_tool(index, all_chunks):
     return search_corpus
 
 
+def build_agent(index, all_chunks):
+    search_tool = make_tool(index, all_chunks)
+    model = ChatGoogleGenerativeAI(
+        model="gemini-2.0-flash",
+        temperature=1.0,  # Gemini 3.0+ defaults to 1.0
+        max_tokens=None,
+        timeout=None,
+        max_retries=2,
+                )
+
+    model_with_tools = model.bind_tools([search_tool])
+    return model_with_tools, search_tool
+
 def main():
     articles = file_loader()
     all_chunks = []
