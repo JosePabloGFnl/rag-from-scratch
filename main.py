@@ -147,7 +147,7 @@ def main():
     index = build_index(embeddings)
 
     # k>1. Not "more chances to get lucky," but that redundancy across independent chunks lets the generation step resolve what retrieval alone couldn't rank.
-    question = "Who won the world cup"
+    question = "Who won the 2026 USA-Mexico-Canada world cup"
     querying(question, index, all_chunks, 5   )
     model_with_tools, search_tool = build_agent(index, all_chunks)
     print(ask(question, model_with_tools, search_tool))
