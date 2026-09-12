@@ -5,6 +5,7 @@ import faiss
 from dotenv import load_dotenv
 from langchain_core.tools import tool
 from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_core.messages import HumanMessage
 
 def file_loader():
     p = r"data"
@@ -108,7 +109,7 @@ def make_tool(index, all_chunks):
 def build_agent(index, all_chunks):
     search_tool = make_tool(index, all_chunks)
     model = ChatGoogleGenerativeAI(
-        model="gemini-2.0-flash",
+        model="gemini-3.6-flash",
         temperature=1.0,  # Gemini 3.0+ defaults to 1.0
         max_tokens=None,
         timeout=None,
@@ -117,6 +118,12 @@ def build_agent(index, all_chunks):
 
     model_with_tools = model.bind_tools([search_tool])
     return model_with_tools, search_tool
+
+def ask(question, model, tool):
+    messages = [HumanMessage(content=question)]
+    response = model.invoke(messages)
+    return response.tool_calls
+
 
 def main():
     articles = file_loader()
@@ -129,6 +136,9 @@ def main():
     index = build_index(embeddings)
 
     # k>1. Not "more chances to get lucky," but that redundancy across independent chunks lets the generation step resolve what retrieval alone couldn't rank.
-    querying("Who won the world cup", index, all_chunks, 5   )
+    question = "Who won the world cup"
+    querying(question, index, all_chunks, 5   )
+    model_with_tools, search_tool = build_agent(index, all_chunks)
+    print(ask(question, model_with_tools, search_tool))
 
 main()
