@@ -185,14 +185,26 @@ def main():
     all_chunks = build_chunks(articles)
 
     # Indexing happens once at startup; asking happens per question.
+    # That split is why this is a REPL and not a one-shot script.
     embeddings = embed([chunk['text'] for chunk in all_chunks])
     index = build_index(embeddings)
 
     model_with_tools, search_tool = build_agent(index, all_chunks)
 
-    question = "Who won the 2026 USA-Mexico-Canada world cup"
-    print(ask(question, model_with_tools, search_tool))
+    print(f"Indexed {len(all_chunks)} chunks from {len(articles)} documents.")
+    print("Ask a question, or press Ctrl-D to quit.\n")
 
+    while True:
+        try:
+            question = input("> ").strip()
+        except (EOFError, KeyboardInterrupt):
+            print()
+            return
+
+        if not question:
+            continue
+
+        print(ask(question, model_with_tools, search_tool), "\n")
 
 if __name__ == "__main__":
     main()
