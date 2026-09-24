@@ -8,6 +8,11 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.messages import HumanMessage, ToolMessage
 
 
+# Agents decide their own control flow, so nothing bounds the number of
+# tool rounds except this. Without it a model that keeps requesting tools
+# spins until the quota runs out.
+MAX_TOOL_ROUNDS = 5
+
 def file_loader():
     p = r"data"
 
@@ -122,7 +127,7 @@ def build_agent(index, all_chunks):
         model="gemini-3.6-flash",
         max_tokens=None,
         timeout=None,
-        max_retries=2,
+        max_retries=5,
     )
 
     # bind_tools tells the model the tool exists. It cannot run it: that stays
@@ -131,12 +136,10 @@ def build_agent(index, all_chunks):
     return model_with_tools, search_tool
 
 
-def ask(question, model, tool):
+def ask(question, model, tool, max_rounds=MAX_TOOL_ROUNDS):
     messages = [HumanMessage(content=question)]
 
-    # The model controls the flow: it may search zero times, once, or several
-    # times before answering. This loop runs until it stops asking for tools.
-    while True:
+    for _ in range(max_rounds):
         response = model.invoke(messages)
 
         if not response.tool_calls:
@@ -156,6 +159,10 @@ def ask(question, model, tool):
             passage = tool.invoke(call["args"])
             # tool_call_id pairs this result with the request it answers.
             messages.append(ToolMessage(passage, tool_call_id=call["id"]))
+
+    raise RuntimeError(
+        f"Agent did not produce an answer within {max_rounds} tool rounds."
+    )
 
 
 def build_chunks(articles):
