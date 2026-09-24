@@ -105,6 +105,23 @@ Nothing was wrong with the retrieval code. The docstring was weak, and the quest
 
 This also crashed the first version of the agent loop, which assumed a tool call would always happen. That crash is the practical difference between a pipeline and an agent: **you do not control whether the tool gets called.**
 
+### 3. Grounded and ungrounded claims blend invisibly
+
+Asked how Sergio Ramos performed in the tournament, the system answered that he
+was not in Spain's 26-man squad — correct, and supported by `squads.txt` — and
+then added that he had retired from international football in February 2023.
+
+That second claim almost certainly is not in the corpus. It predates the
+tournament and has no reason to appear in a 2026 World Cup article. The model
+retrieved correctly, then extended the answer from training data, with nothing
+in the output marking where one ended and the other began.
+
+This is harder to catch than failure 2. A skipped tool call shows up in logs.
+This looks like a perfect answer.
+
+It is also the clearest argument for citations: if every claim had to point at a
+retrieved passage, the retirement line would have had nothing to point to.
+
 ## Known limitations
 
 - The corpus is unprocessed Wikipedia text, navigation junk included. Deliberate — clean input hides the extraction problems real corpora have.
