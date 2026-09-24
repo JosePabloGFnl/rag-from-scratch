@@ -10,9 +10,13 @@ Answers questions about the 2026 FIFA World Cup using five Wikipedia articles as
 
 ```
 $ python main.py
-Spain won the 2026 FIFA World Cup. They defeated the defending champions
-Argentina 1–0 (after extra time) in the final on July 19, 2026, at MetLife
-Stadium in East Rutherford, New Jersey.
+Indexed 745 chunks from 5 documents.
+Ask a question, or press Ctrl-D to quit.
+
+> who won the 2026 world cup?
+Spain won the 2026 FIFA World Cup, defeating defending champions Argentina 1–0
+after extra time in the final on July 19, 2026, at MetLife Stadium in East
+Rutherford, New Jersey. This was Spain's second World Cup title.
 ```
 
 ## Pipeline
@@ -48,6 +52,8 @@ Then:
 python main.py
 ```
 
+Indexing takes roughly fifteen seconds and happens once at startup; questions after that are near-instant. That split is why this is a REPL rather than a one-shot script.
+
 ## Design notes
 
 ### Recursive chunking, not fixed-size with overlap
@@ -78,9 +84,13 @@ The agent supplies only `query` when it calls the tool. `index` and `all_chunks`
 
 Loading `all-MiniLM-L6-v2` reads ~90MB from disk. A fixed pipeline calls `embed` a known number of times; an agent calls it an unpredictable number of times, so per-call loading goes from wasteful to slow.
 
-## Two failures worth reading about
+### A bounded agent loop
 
-These are the reason the repo exists.
+`MAX_TOOL_ROUNDS` caps how many search-and-reconsider cycles the agent gets before the attempt is abandoned. Nothing else bounds it: the model decides when to stop calling tools, and a model that never stops would run until the API quota did. See failure 4 for a question that actually hits the cap.
+
+## Four failures worth reading about
+
+These are the reason the repo exists. All four came from ordinary questions, not contrived tests.
 
 ### 1. Semantic similarity is not factual specificity
 
@@ -107,27 +117,38 @@ This also crashed the first version of the agent loop, which assumed a tool call
 
 ### 3. Grounded and ungrounded claims blend invisibly
 
-Asked how Sergio Ramos performed in the tournament, the system answered that he
-was not in Spain's 26-man squad — correct, and supported by `squads.txt` — and
-then added that he had retired from international football in February 2023.
+Asked how Sergio Ramos performed in the tournament, the system answered that he was not in Spain's 26-man squad — correct, and supported by `squads.txt` — and then added that he had retired from international football in February 2023.
 
-That second claim almost certainly is not in the corpus. It predates the
-tournament and has no reason to appear in a 2026 World Cup article. The model
-retrieved correctly, then extended the answer from training data, with nothing
-in the output marking where one ended and the other began.
+That second claim almost certainly is not in the corpus. It predates the tournament and has no reason to appear in a 2026 World Cup article. The model retrieved correctly, then extended the answer from training data, with nothing in the output marking where one ended and the other began.
 
-This is harder to catch than failure 2. A skipped tool call shows up in logs.
-This looks like a perfect answer.
+This is harder to catch than failure 2. A skipped tool call shows up in logs. This looks like a perfect answer.
 
-It is also the clearest argument for citations: if every claim had to point at a
-retrieved passage, the retirement line would have had nothing to point to.
+It is also the clearest argument for citations: if every claim had to point at a retrieved passage, the retirement line would have had nothing to point to.
+
+### 4. The same question fails and succeeds on different runs
+
+Asked _"how many goals did Messi score during the 2026 World Cup?"_, the agent exhausted all five tool rounds without producing an answer. Asked again, unchanged, it answered correctly: 8 goals, second behind Mbappé's 10.
+
+The answer was in the corpus the whole time, in the Golden Boot table in `world-cup-2026.txt`:
+
+```
+Mbappé 10 goals, 4 assists, 769 minutes played | Messi 8 goals, 4 assists,
+853 minutes played | Bellingham 7 goals, 1 assist, 698 minutes played
+```
+
+Two things make this hard to retrieve. A per-player goal tally is a _number_, and numbers are where embeddings are weakest. And the query matches hundreds of chunks about goals and scoring, while the answer sits in one stats row whose neighbouring text is mostly other players' names and numbers. Retrieval has to land on that specific row among many plausible ones. Sometimes it does.
+
+There is a second lesson buried in this one. After failure 3, the correct answer _looked_ suspicious — a tidy top-scorer ranking is exactly the shape a model's parametric knowledge produces. It took a `grep` over the corpus to confirm it was real.
+
+Once a system can blend retrieved and unretrieved content invisibly, **"it sounded right" and "it sounded suspicious" are both useless signals.** That is the practical case for citations, restated from the other direction.
 
 ## Known limitations
 
 - The corpus is unprocessed Wikipedia text, navigation junk included. Deliberate — clean input hides the extraction problems real corpora have.
+- Table structure is flattened into plain text during chunking. The Golden Boot row survived as a readable line, but that was luck rather than design.
 - No evaluation set. Retrieval quality is judged by eye, which is exactly the thing a production system cannot do.
-- The agent loop has no iteration cap.
-- `k` and the chunk size are hardcoded rather than tuned against anything.
+- No citations, so grounded and ungrounded claims are indistinguishable in the output (failures 3 and 4).
+- `k` and the chunk size are constants, chosen by inspection rather than tuned against anything.
 - The index is rebuilt on every run instead of being persisted.
 
 ## Stack
