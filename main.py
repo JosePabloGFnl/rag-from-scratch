@@ -12,11 +12,28 @@ from langchain_core.messages import HumanMessage, ToolMessage
 # Agents decide their own control flow, so nothing bounds the number of
 # tool rounds except this. Without it a model that keeps requesting tools
 # spins until the quota runs out.
+# Corpus
+DATA_DIR = "data"
+
+# Chunking. Recursive splitting stops at the first separator that fits, so
+# this is a ceiling, not a target.
+MAX_CHUNK_SIZE = 1000
+
+# Retrieval. Low k risks missing the answer; high k grows context cost
+# linearly and buries the answer among weak matches.
+TOP_K = 5
+
+# Models. The query and the chunks must share an embedding model.
+EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
+CHAT_MODEL = "gemini-3.6-flash"
+
+# Agents decide their own control flow, so nothing bounds the number of
+# tool rounds except this.
 MAX_TOOL_ROUNDS = 5
 
 
 def file_loader():
-    p = r"data"
+    p = DATA_DIR
 
     articles = []
     with os.scandir(p) as entries:
@@ -39,7 +56,7 @@ def file_loader():
     return articles
 
 
-def recursive_chunking(text: str, max_chunk_size: int = 1000):
+def recursive_chunking(text: str, max_chunk_size: int = MAX_CHUNK_SIZE):
     # Base case: if text is small enough, return as single chunk
     if len(text) <= max_chunk_size:
         return [text.strip()] if text.strip() else []
@@ -93,7 +110,7 @@ _model = None
 def embed(list_of_sentences: list):
     global _model
     if _model is None:
-        _model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
+        _model = SentenceTransformer(EMBEDDING_MODEL)
     return _model.encode(list_of_sentences)
 
 
@@ -117,7 +134,7 @@ def make_tool(index, all_chunks):
         # this based on it alone.
         """This searcher is intended for FIFA World Cup 2026 questions."""
         query_vector = embed([query])
-        _, indices = index.search(query_vector, 5)
+        _, indices = index.search(query_vector, TOP_K)
 
         # FAISS returns row numbers. all_chunks is the lookup table that turns
         # them back into readable text; position alignment between the two is
@@ -133,7 +150,7 @@ def make_tool(index, all_chunks):
 def build_agent(index, all_chunks):
     search_tool = make_tool(index, all_chunks)
     model = ChatGoogleGenerativeAI(
-        model="gemini-3.6-flash",
+        model=CHAT_MODEL,
         max_tokens=None,
         timeout=None,
         max_retries=5,
@@ -170,6 +187,7 @@ def ask(question, model, tool, max_rounds=MAX_TOOL_ROUNDS):
             passage = tool.invoke(call["args"])
             # tool_call_id pairs this result with the request it answers.
             messages.append(ToolMessage(passage, tool_call_id=call["id"]))
+            call["args"]
 
     raise RuntimeError(
         f"Agent did not produce an answer within {max_rounds} tool rounds."
