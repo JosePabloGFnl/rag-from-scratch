@@ -5,6 +5,7 @@ import faiss
 from dotenv import load_dotenv
 from langchain_core.tools import tool
 from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_google_genai.chat_models import GoogleAPIError
 from langchain_core.messages import HumanMessage, ToolMessage
 
 
@@ -12,6 +13,7 @@ from langchain_core.messages import HumanMessage, ToolMessage
 # tool rounds except this. Without it a model that keeps requesting tools
 # spins until the quota runs out.
 MAX_TOOL_ROUNDS = 5
+
 
 def file_loader():
     p = r"data"
@@ -27,6 +29,13 @@ def file_loader():
                     "source": e.name,
                     "text": text
                 })
+
+    # Fail here, where we know what went wrong. Otherwise this surfaces as an
+    # array-shape error deep inside FAISS.
+    if not articles:
+        raise FileNotFoundError(
+            f"No .txt files found in {p!r}. See the README for corpus setup."
+        )
     return articles
 
 
@@ -139,6 +148,8 @@ def build_agent(index, all_chunks):
 def ask(question, model, tool, max_rounds=MAX_TOOL_ROUNDS):
     messages = [HumanMessage(content=question)]
 
+    # The model controls the flow: it may search zero times, once, or several
+    # times before answering. Bounded so a stuck model can't loop forever.
     for _ in range(max_rounds):
         response = model.invoke(messages)
 
@@ -181,6 +192,12 @@ def build_chunks(articles):
 def main():
     load_dotenv()
 
+    # Fail before the ~15s of indexing rather than after it.
+    if not os.environ.get("GOOGLE_API_KEY"):
+        raise RuntimeError(
+            "GOOGLE_API_KEY not set. Create a .env file with your key."
+        )
+
     articles = file_loader()
     all_chunks = build_chunks(articles)
 
@@ -204,7 +221,15 @@ def main():
         if not question:
             continue
 
-        print(ask(question, model_with_tools, search_tool), "\n")
+        # A transient API error or a hit iteration cap should return you to the
+        # prompt, not end the session.
+        try:
+            print(ask(question, model_with_tools, search_tool), "\n")
+        except GoogleAPIError as e:
+            print(f"Model error: {e}\n")
+        except RuntimeError as e:
+            print(f"{e}\n")
+
 
 if __name__ == "__main__":
     main()
