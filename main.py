@@ -7,6 +7,7 @@ from langchain_core.tools import tool
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_google_genai.chat_models import GoogleAPIError
 from langchain_core.messages import HumanMessage, ToolMessage
+import hashlib
 
 
 # Agents decide their own control flow, so nothing bounds the number of
@@ -205,6 +206,23 @@ def build_chunks(articles):
                 "index": i
             })
     return all_chunks
+
+def corpus_fingerprint():
+    h = hashlib.sha256()
+
+    encoded_model = EMBEDDING_MODEL.encode()
+    encoded_chunk_size = str(MAX_CHUNK_SIZE).encode()
+    h.update(encoded_model)
+    h.update(encoded_chunk_size)
+
+    names = sorted(f for f in os.listdir(DATA_DIR) if f.endswith(".txt"))
+
+    for name in names:
+        h.update(name.encode())
+        with open(os.path.join(DATA_DIR, name), "rb") as f:
+            h.update(f.read())
+
+    return h.hexdigest()
 
 
 def main():
