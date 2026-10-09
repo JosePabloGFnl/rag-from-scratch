@@ -1,5 +1,7 @@
 import numpy as np
 import os
+import json
+import hashlib
 from sentence_transformers import SentenceTransformer
 import faiss
 from dotenv import load_dotenv
@@ -7,7 +9,6 @@ from langchain_core.tools import tool
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_google_genai.chat_models import GoogleAPIError
 from langchain_core.messages import HumanMessage, ToolMessage
-import hashlib
 
 
 # Agents decide their own control flow, so nothing bounds the number of
@@ -15,6 +16,9 @@ import hashlib
 # spins until the quota runs out.
 # Corpus
 DATA_DIR = "data"
+
+# Derived index cache. Rebuildable, gitignored.
+CACHE_DIR = "cache"
 
 # Chunking. Recursive splitting stops at the first separator that fits, so
 # this is a ceiling, not a target.
@@ -124,6 +128,23 @@ def build_index(embeddings: np.ndarray):
     index = faiss.IndexFlatL2(embeddings.shape[1])
     index.add(embeddings)
     return index
+
+def save_cache(index, all_chunks, fingerprint):
+    """Persist the built index so later runs skip the ~15s rebuild."""
+    faiss.write_index(index, os.path.join(CACHE_DIR, "index.faiss"))
+
+    with open(os.path.join(CACHE_DIR, "chunks.json"), "w", encoding="utf-8") as f:
+        json.dump(all_chunks, f)
+
+    # Written last on purpose. If the process dies mid-save, the missing
+    # fingerprint makes the cache read as invalid and it gets rebuilt. Written
+    # first, a crash would leave a fingerprint vouching for incomplete files.
+    with open(os.path.join(CACHE_DIR, "fingerprint.txt"), "w") as f:
+        f.write(fingerprint)
+
+
+def load_cache(fingerprint):
+    """Return (index, all_chunks) if the cache matches, otherwise None."""
 
 
 # Closure, not globals: the model only supplies `query`, so `index` and
