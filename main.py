@@ -145,6 +145,11 @@ def save_cache(index, all_chunks, fingerprint):
 
 def load_cache(fingerprint):
     """Return (index, all_chunks) if the cache matches, otherwise None."""
+    index_path = os.path.join(CACHE_DIR, "index.faiss")
+    chunks_path = os.path.join(CACHE_DIR, "chunks.json")
+    fp_path = os.path.join(CACHE_DIR, "fingerprint.txt")
+    if not all(os.path.isfile(p) for p in (index_path, chunks_path, fp_path)):
+        return None
 
 
 # Closure, not globals: the model only supplies `query`, so `index` and
